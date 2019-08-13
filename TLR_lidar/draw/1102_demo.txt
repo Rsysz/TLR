@@ -1,0 +1,1694 @@
+./traindata/JPEGImages/frame10933_to_frame10971_label_000032_0.jpg 58,30,87,40,0 73,33,80,40,2
+./traindata/JPEGImages/frame10933_to_frame10971_label_000035_0.jpg 82,39,123,52,0 102,42,111,50,2
+./traindata/JPEGImages/frame10933_to_frame10971_label_000037_0.jpg 112,60,168,80,0 140,64,152,76,2
+./traindata/JPEGImages/frame10933_to_frame10971_label_000038_0.jpg 128,78,192,104,0 164,83,176,96,2
+./traindata/JPEGImages/frame11016_to_frame11087_label_000056_0.jpg 60,33,90,44,0 76,36,81,41,3
+./traindata/JPEGImages/frame11016_to_frame11087_label_000057_0.jpg 64,39,96,52,0 81,43,87,49,3
+./traindata/JPEGImages/frame11016_to_frame11087_label_000059_0.jpg 76,30,114,40,0 95,33,101,39,3
+./traindata/JPEGImages/frame11016_to_frame11087_label_000060_0.jpg 68,33,102,44,0 86,36,93,42,3
+./traindata/JPEGImages/frame11016_to_frame11087_label_000061_0.jpg 68,36,102,48,0 88,39,95,47,3
+./traindata/JPEGImages/frame11016_to_frame11087_label_000062_0.jpg 76,39,114,52,0 97,42,104,49,3
+./traindata/JPEGImages/frame11016_to_frame11087_label_000063_0.jpg 86,42,129,56,0 108,46,115,53,3
+./traindata/JPEGImages/frame11016_to_frame11087_label_000064_0.jpg 82,45,123,60,0 104,49,112,57,3
+./traindata/JPEGImages/frame11016_to_frame11087_label_000065_0.jpg 92,48,138,64,0 117,52,124,60,3
+./traindata/JPEGImages/frame11016_to_frame11087_label_000066_0.jpg 96,48,144,64,0 122,52,131,61,3
+./traindata/JPEGImages/frame11016_to_frame11087_label_000067_0.jpg 104,57,156,76,0 131,62,141,71,3
+./traindata/JPEGImages/frame11016_to_frame11087_label_000068_0.jpg 114,60,171,80,0 145,64,155,75,3
+./traindata/JPEGImages/frame11016_to_frame11087_label_000069_0.jpg 126,60,189,80,0 160,65,172,76,3
+./traindata/JPEGImages/frame11016_to_frame11087_label_000070_0.jpg 148,60,222,80,0 189,64,203,77,3
+./traindata/JPEGImages/frame11016_to_frame11087_label_000071_0.jpg 210,72,315,96,0 269,77,286,93,3
+./traindata/JPEGImages/frame11016_to_frame11087_label_000072_0.jpg 214,69,321,92,0 275,74,291,90,3
+./traindata/JPEGImages/frame11145_to_frame11185_label_000033_0.jpg 44,24,66,32,0 52,25,58,31,2
+./traindata/JPEGImages/frame11145_to_frame11185_label_000036_0.jpg 58,36,87,48,0 69,39,77,46,2
+./traindata/JPEGImages/frame11145_to_frame11185_label_000037_0.jpg 64,36,96,48,0 77,39,85,47,2
+./traindata/JPEGImages/frame11145_to_frame11185_label_000039_0.jpg 88,57,132,76,0 106,60,117,71,2
+./traindata/JPEGImages/frame11145_to_frame11185_label_000039_1.jpg 42,27,63,36,0 50,28,56,34,2
+./traindata/JPEGImages/frame11208_to_frame11283_label_000029_0.jpg 44,27,66,36,0 52,28,58,35,2
+./traindata/JPEGImages/frame11208_to_frame11283_label_000032_0.jpg 54,36,81,48,0 64,38,72,46,2
+./traindata/JPEGImages/frame11208_to_frame11283_label_000034_0.jpg 76,45,114,60,0 92,48,100,57,2
+./traindata/JPEGImages/frame11208_to_frame11283_label_000035_0.jpg 82,57,123,76,0 99,61,109,71,2
+./traindata/JPEGImages/frame11208_to_frame11283_label_000037_0.jpg 130,102,195,136,0 158,109,172,125,2
+./traindata/JPEGImages/frame11208_to_frame11283_label_000043_0.jpg 156,81,234,108,0 182,86,197,101,2
+./traindata/JPEGImages/frame11208_to_frame11283_label_000064_0.jpg 92,36,138,48,0 127,38,137,48,4
+./traindata/JPEGImages/frame11208_to_frame11283_label_000065_0.jpg 104,42,156,56,0 145,44,154,55,4
+./traindata/JPEGImages/frame11208_to_frame11283_label_000066_0.jpg 120,54,180,72,0 165,57,176,70,4
+./traindata/JPEGImages/frame11208_to_frame11283_label_000069_0.jpg 74,30,111,40,0 101,31,107,39,4
+./traindata/JPEGImages/frame11208_to_frame11283_label_000070_0.jpg 76,30,114,40,0 104,32,112,39,4
+./traindata/JPEGImages/frame11208_to_frame11283_label_000071_0.jpg 78,33,117,44,0 107,34,115,42,4
+./traindata/JPEGImages/frame11208_to_frame11283_label_000074_0.jpg 74,30,111,40,0 101,31,110,38,4
+./traindata/JPEGImages/frame11208_to_frame11283_label_000075_0.jpg 74,27,111,36,0 103,28,109,35,4
+./traindata/JPEGImages/frame11208_to_frame11283_label_000076_0.jpg 148,63,222,84,0 206,65,219,78,4
+./traindata/JPEGImages/frame1140_to_frame1187_label_000040_0.jpg 62,24,93,32,0 71,27,79,32,2
+./traindata/JPEGImages/frame1140_to_frame1187_label_000043_0.jpg 80,33,120,44,0 92,36,100,43,2
+./traindata/JPEGImages/frame1140_to_frame1187_label_000046_0.jpg 118,54,177,72,0 135,59,147,68,2
+./traindata/JPEGImages/frame1813_to_frame1903_label_000021_0.jpg 40,18,60,24,0 40,18,46,24,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000022_1.jpg 46,24,69,32,0 46,24,54,32,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000023_0.jpg 32,18,48,24,0 32,18,37,24,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000023_1.jpg 52,24,78,32,0 53,24,61,31,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000025_0.jpg 36,21,54,28,0 36,21,42,28,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000025_1.jpg 62,30,93,40,0 62,30,72,40,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000026_0.jpg 40,21,60,28,0 40,21,47,28,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000026_1.jpg 68,33,102,44,0 68,33,78,44,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000027_0.jpg 46,27,69,36,0 46,27,54,36,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000027_1.jpg 84,45,126,60,0 85,45,97,59,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000028_0.jpg 50,27,75,36,0 50,28,58,36,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000028_1.jpg 100,54,150,72,0 100,54,116,70,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000029_0.jpg 56,30,84,40,0 56,30,66,40,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000029_2.jpg 118,66,177,88,0 119,68,138,85,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000030_0.jpg 60,36,90,48,0 60,36,68,48,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000030_2.jpg 156,81,234,108,0 158,83,181,106,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000031_0.jpg 72,39,108,52,0 73,40,85,51,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000031_2.jpg 214,96,321,128,0 219,99,249,126,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000032_0.jpg 76,45,114,60,0 76,47,90,60,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000032_1.jpg 34,18,51,24,0 34,18,40,24,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000032_2.jpg 298,41,447,91,0 303,45,344,87,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000033_0.jpg 86,51,129,68,0 87,53,101,66,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000033_1.jpg 36,18,54,24,0 36,19,41,24,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000034_0.jpg 94,57,141,76,0 95,58,110,74,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000034_1.jpg 38,18,57,24,0 38,18,45,24,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000035_0.jpg 116,75,174,100,0 117,77,137,96,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000035_1.jpg 38,21,57,28,0 38,21,44,28,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000036_0.jpg 136,81,204,108,0 138,84,159,103,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000036_1.jpg 40,21,60,28,0 40,22,47,28,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000037_0.jpg 152,102,228,136,0 155,104,179,127,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000037_1.jpg 42,21,63,28,0 42,21,49,28,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000038_0.jpg 172,114,258,152,0 177,117,203,142,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000038_1.jpg 44,24,66,32,0 44,24,51,32,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000039_0.jpg 224,141,336,188,0 233,142,268,175,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000039_1.jpg 46,24,69,32,0 46,24,54,32,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000040_0.jpg 264,116,396,176,0 272,122,312,156,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000040_1.jpg 50,27,75,36,0 50,27,58,36,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000041_0.jpg 298,1,447,54,0 300,1,345,29,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000041_1.jpg 50,27,75,36,0 50,27,58,36,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000042_0.jpg 52,27,78,36,0 52,28,61,36,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000044_0.jpg 60,33,90,44,0 61,33,69,43,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000045_0.jpg 60,33,90,44,0 60,34,69,43,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000046_0.jpg 60,33,90,44,0 59,34,70,43,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000047_0.jpg 56,33,84,44,0 56,33,65,44,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000048_0.jpg 58,30,87,40,0 58,30,67,40,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000049_0.jpg 58,27,87,36,0 58,28,68,36,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000050_0.jpg 58,30,87,40,0 58,31,68,39,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000051_0.jpg 58,33,87,44,0 58,34,68,43,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000052_0.jpg 62,27,93,36,0 63,27,72,36,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000053_0.jpg 60,30,90,40,0 61,31,69,39,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000054_0.jpg 62,36,93,48,0 63,37,71,47,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000055_0.jpg 62,30,93,40,0 63,30,72,39,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000056_0.jpg 60,30,90,40,0 60,30,70,40,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000057_0.jpg 60,30,90,40,0 61,31,70,40,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000058_0.jpg 62,30,93,40,0 62,30,72,40,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000059_0.jpg 60,33,90,44,0 60,33,69,43,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000060_0.jpg 58,30,87,40,0 58,31,66,39,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000061_0.jpg 58,30,87,40,0 58,30,67,40,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000063_0.jpg 60,33,90,44,0 61,33,70,43,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000064_0.jpg 62,36,93,48,0 63,37,72,47,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000065_0.jpg 58,30,87,40,0 58,30,67,39,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000066_0.jpg 60,33,90,44,0 61,34,70,43,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000067_0.jpg 62,27,93,36,0 63,27,72,36,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000068_0.jpg 58,30,87,40,0 58,30,67,40,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000069_0.jpg 60,36,90,48,0 60,37,70,47,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000070_0.jpg 58,30,87,40,0 58,30,68,40,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000071_0.jpg 58,33,87,44,0 58,33,68,43,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000072_0.jpg 58,27,87,36,0 58,27,66,36,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000073_0.jpg 56,27,84,36,0 56,27,64,36,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000074_0.jpg 58,33,87,44,0 58,33,67,43,1
+./traindata/JPEGImages/frame1813_to_frame1903_label_000075_0.jpg 62,36,93,48,0 83,38,92,47,3
+./traindata/JPEGImages/frame1813_to_frame1903_label_000076_0.jpg 60,36,90,48,0 82,39,90,47,3
+./traindata/JPEGImages/frame1813_to_frame1903_label_000077_0.jpg 60,36,90,48,0 82,39,90,47,3
+./traindata/JPEGImages/frame1813_to_frame1903_label_000078_0.jpg 62,33,93,44,0 84,35,93,42,3
+./traindata/JPEGImages/frame1813_to_frame1903_label_000079_0.jpg 58,33,87,44,0 79,34,87,43,3
+./traindata/JPEGImages/frame1813_to_frame1903_label_000080_0.jpg 62,36,93,48,0 84,37,93,46,3
+./traindata/JPEGImages/frame1813_to_frame1903_label_000081_0.jpg 64,36,96,48,0 86,38,95,46,3
+./traindata/JPEGImages/frame1813_to_frame1903_label_000082_0.jpg 64,39,96,52,0 86,41,95,50,3
+./traindata/JPEGImages/frame1813_to_frame1903_label_000083_0.jpg 68,42,102,56,0 92,44,101,54,3
+./traindata/JPEGImages/frame1813_to_frame1903_label_000084_0.jpg 70,39,105,52,0 94,40,104,50,3
+./traindata/JPEGImages/frame1813_to_frame1903_label_000085_0.jpg 72,39,108,52,0 97,40,108,51,3
+./traindata/JPEGImages/frame1813_to_frame1903_label_000086_0.jpg 78,45,117,60,0 105,46,117,59,3
+./traindata/JPEGImages/frame1813_to_frame1903_label_000087_0.jpg 86,45,129,60,0 116,46,128,58,3
+./traindata/JPEGImages/frame1813_to_frame1903_label_000088_0.jpg 96,57,144,76,0 130,60,143,73,3
+./traindata/JPEGImages/frame1813_to_frame1903_label_000089_0.jpg 110,63,165,84,0 149,66,163,80,3
+./traindata/JPEGImages/frame1813_to_frame1903_label_000090_0.jpg 134,60,201,80,0 182,60,201,77,3
+./traindata/JPEGImages/frame1813_to_frame1903_label_000091_0.jpg 158,72,237,96,0 216,73,235,90,3
+./traindata/JPEGImages/frame1813_to_frame1903_label_000091_1.jpg 2,129,110,172,0 5,133,31,156,1
+./traindata/JPEGImages/frame1925_to_frame1934_label_000004_0.jpg 44,21,66,28,0 51,22,59,29,2
+./traindata/JPEGImages/frame1925_to_frame1934_label_000007_0.jpg 46,24,69,32,0 54,25,63,32,2
+./traindata/JPEGImages/frame1925_to_frame1934_label_000010_0.jpg 46,27,69,36,0 54,28,62,36,2
+./traindata/JPEGImages/frame1997_to_frame2035_label_000004_0.jpg 78,60,117,80,0 82,68,93,79,1
+./traindata/JPEGImages/frame1997_to_frame2035_label_000007_0.jpg 88,72,132,96,0 90,80,103,93,1
+./traindata/JPEGImages/frame1997_to_frame2035_label_000010_0.jpg 102,84,153,112,0 106,94,120,109,1
+./traindata/JPEGImages/frame1997_to_frame2035_label_000013_0.jpg 130,99,195,132,0 134,110,150,129,1
+./traindata/JPEGImages/frame1997_to_frame2035_label_000016_0.jpg 176,141,264,188,0 182,159,200,181,1
+./traindata/JPEGImages/frame1997_to_frame2035_label_000020_0.jpg 54,36,81,48,0 71,38,79,45,3
+./traindata/JPEGImages/frame1997_to_frame2035_label_000021_0.jpg 54,39,81,52,0 72,42,79,49,3
+./traindata/JPEGImages/frame1997_to_frame2035_label_000022_0.jpg 56,42,84,56,0 75,45,83,52,3
+./traindata/JPEGImages/frame1997_to_frame2035_label_000023_0.jpg 54,39,81,52,0 71,42,80,49,3
+./traindata/JPEGImages/frame1997_to_frame2035_label_000024_0.jpg 58,45,87,60,0 77,48,84,56,3
+./traindata/JPEGImages/frame1997_to_frame2035_label_000025_0.jpg 58,42,87,56,0 77,44,86,52,3
+./traindata/JPEGImages/frame1997_to_frame2035_label_000026_0.jpg 58,45,87,60,0 78,48,86,56,3
+./traindata/JPEGImages/frame1997_to_frame2035_label_000027_0.jpg 64,48,96,64,0 85,52,93,61,3
+./traindata/JPEGImages/frame1997_to_frame2035_label_000028_0.jpg 66,45,99,60,0 88,48,96,56,3
+./traindata/JPEGImages/frame1997_to_frame2035_label_000029_0.jpg 70,51,105,68,0 93,55,102,64,3
+./traindata/JPEGImages/frame1997_to_frame2035_label_000030_0.jpg 70,54,105,72,0 93,58,103,67,3
+./traindata/JPEGImages/frame1997_to_frame2035_label_000031_0.jpg 72,57,108,76,0 97,61,106,72,3
+./traindata/JPEGImages/frame1997_to_frame2035_label_000032_0.jpg 76,54,114,72,0 102,58,111,68,3
+./traindata/JPEGImages/frame1997_to_frame2035_label_000033_0.jpg 82,57,123,76,0 110,61,120,73,3
+./traindata/JPEGImages/frame1997_to_frame2035_label_000034_0.jpg 88,63,132,84,0 118,68,129,80,3
+./traindata/JPEGImages/frame1997_to_frame2035_label_000035_0.jpg 92,63,138,84,0 122,67,135,79,3
+./traindata/JPEGImages/frame1997_to_frame2035_label_000036_0.jpg 98,72,147,96,0 130,77,143,90,3
+./traindata/JPEGImages/frame1997_to_frame2035_label_000037_0.jpg 108,69,162,92,0 145,73,158,87,3
+./traindata/JPEGImages/frame1997_to_frame2035_label_000038_0.jpg 110,84,165,112,0 148,89,162,105,3
+./traindata/JPEGImages/frame1997_to_frame2035_label_000039_0.jpg 120,81,180,108,0 161,86,176,103,3
+./traindata/JPEGImages/frame2051_to_frame2072_label_000001_0.jpg 58,42,87,56,0 76,46,85,53,3
+./traindata/JPEGImages/frame2051_to_frame2072_label_000002_0.jpg 54,39,81,52,0 72,42,80,49,3
+./traindata/JPEGImages/frame2051_to_frame2072_label_000003_0.jpg 52,39,78,52,0 69,42,76,49,3
+./traindata/JPEGImages/frame2051_to_frame2072_label_000004_0.jpg 56,39,84,52,0 74,43,82,50,3
+./traindata/JPEGImages/frame2051_to_frame2072_label_000005_0.jpg 56,39,84,52,0 75,42,83,50,3
+./traindata/JPEGImages/frame2051_to_frame2072_label_000006_0.jpg 58,42,87,56,0 78,46,85,53,3
+./traindata/JPEGImages/frame2051_to_frame2072_label_000007_0.jpg 60,45,90,60,0 80,49,88,56,3
+./traindata/JPEGImages/frame2051_to_frame2072_label_000008_0.jpg 64,36,96,48,0 86,39,93,46,3
+./traindata/JPEGImages/frame2051_to_frame2072_label_000009_0.jpg 66,42,99,56,0 89,46,97,53,3
+./traindata/JPEGImages/frame2051_to_frame2072_label_000010_0.jpg 66,48,99,64,0 89,52,97,60,3
+./traindata/JPEGImages/frame2383_to_frame2424_label_000031_0.jpg 62,24,93,32,0 77,24,85,32,4 86,24,93,32,6
+./traindata/JPEGImages/frame2383_to_frame2424_label_000032_1.jpg 68,24,102,32,0 85,24,92,32,4 93,24,103,32,6
+./traindata/JPEGImages/frame2383_to_frame2424_label_000033_1.jpg 76,30,114,40,0 95,30,104,40,4 105,30,114,40,6
+./traindata/JPEGImages/frame2383_to_frame2424_label_000034_0.jpg 50,18,75,24,0 62,18,68,24,4 68,18,75,24,6
+./traindata/JPEGImages/frame2383_to_frame2424_label_000034_1.jpg 84,30,126,40,0 106,30,115,40,4 116,30,126,40,6
+./traindata/JPEGImages/frame2383_to_frame2424_label_000035_0.jpg 56,24,84,32,0 71,25,77,31,4 78,25,84,31,6
+./traindata/JPEGImages/frame2383_to_frame2424_label_000035_1.jpg 102,36,153,48,0 128,36,140,48,4 141,36,153,48,6
+./traindata/JPEGImages/frame2383_to_frame2424_label_000036_0.jpg 62,24,93,32,0 78,24,85,32,4 86,24,93,32,6
+./traindata/JPEGImages/frame2383_to_frame2424_label_000036_1.jpg 120,45,180,60,0 152,46,165,59,4 166,46,180,58,6
+./traindata/JPEGImages/frame2383_to_frame2424_label_000037_0.jpg 66,24,99,32,0 82,24,91,32,4 92,24,99,32,6
+./traindata/JPEGImages/frame2383_to_frame2424_label_000037_1.jpg 148,54,222,72,0 187,54,203,70,4 207,54,221,70,6
+./traindata/JPEGImages/frame2383_to_frame2424_label_000038_0.jpg 80,33,120,44,0 100,34,109,43,4 111,34,119,43,6
+./traindata/JPEGImages/frame2383_to_frame2424_label_000038_1.jpg 212,87,318,116,0 269,87,289,111,4 296,88,317,112,6
+./traindata/JPEGImages/frame2383_to_frame2424_label_000039_0.jpg 86,36,129,48,0 108,37,118,47,4 119,37,129,47,6
+./traindata/JPEGImages/frame2383_to_frame2424_label_000039_1.jpg 302,141,453,188,0 380,145,414,181,4 425,145,452,181,6
+./traindata/JPEGImages/frame2383_to_frame2424_label_000040_0.jpg 102,45,153,60,0 129,47,141,60,4 142,46,153,59,6
+./traindata/JPEGImages/frame2383_to_frame2424_label_000041_0.jpg 118,48,177,64,0 149,49,161,63,4 164,49,176,63,6
+./traindata/JPEGImages/frame2383_to_frame2424_label_000042_0.jpg 150,63,225,84,0 189,66,205,83,4 207,66,224,83,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000029_0.jpg 60,21,90,28,0 67,21,73,27,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000029_2.jpg 50,18,75,24,0 57,19,63,24,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000030_0.jpg 68,24,102,32,0 77,25,83,31,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000030_2.jpg 52,21,78,28,0 59,22,65,27,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000030_3.jpg 38,18,57,24,0 44,19,48,24,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000031_1.jpg 82,30,123,40,0 91,31,100,39,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000031_2.jpg 58,24,87,32,0 65,25,72,31,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000031_3.jpg 42,18,63,24,0 47,19,52,24,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000032_0.jpg 88,33,132,44,0 98,34,106,43,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000032_2.jpg 64,24,96,32,0 73,25,80,32,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000032_3.jpg 44,18,66,24,0 50,19,54,24,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000034_0.jpg 114,42,171,56,0 114,42,125,54,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000034_2.jpg 78,30,117,40,0 79,31,87,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000034_3.jpg 48,24,72,32,0 49,26,54,32,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000035_0.jpg 132,48,198,64,0 132,49,143,61,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000035_2.jpg 80,36,120,48,0 80,38,90,47,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000035_3.jpg 54,21,81,28,0 55,22,62,28,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000036_0.jpg 150,54,225,72,0 150,56,163,70,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000036_1.jpg 44,18,66,24,0 44,19,49,24,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000036_2.jpg 92,36,138,48,0 93,37,104,47,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000036_3.jpg 58,33,87,44,0 59,36,65,43,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000037_0.jpg 200,78,300,104,0
+./traindata/JPEGImages/frame2728_to_frame2913_label_000037_1.jpg 48,18,72,24,0 48,19,53,24,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000037_2.jpg 98,45,147,60,0 98,48,110,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000037_3.jpg 58,27,87,36,0 58,28,65,36,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000038_0.jpg 182,87,304,116,0
+./traindata/JPEGImages/frame2728_to_frame2913_label_000038_1.jpg 50,18,75,24,0 50,18,57,24,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000038_2.jpg 108,45,162,60,0 108,48,120,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000038_3.jpg 64,27,96,36,0 65,29,73,36,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000039_0.jpg 60,114,206,152,0
+./traindata/JPEGImages/frame2728_to_frame2913_label_000039_1.jpg 52,21,78,28,0 52,22,59,28,1 65,22,71,27,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000039_2.jpg 114,48,171,64,0 114,50,127,63,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000039_3.jpg 66,27,99,36,0 67,30,75,37,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000040_0.jpg 1,108,105,144,0
+./traindata/JPEGImages/frame2728_to_frame2913_label_000040_1.jpg 52,18,78,24,0 52,18,58,24,1 66,18,71,24,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000040_2.jpg 124,51,186,68,0 125,53,139,66,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000040_3.jpg 64,27,96,36,0 64,29,72,36,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000041_0.jpg 54,24,81,32,0 54,25,60,32,1 69,25,74,31,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000041_1.jpg 130,57,195,76,0 131,59,145,74,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000041_2.jpg 66,27,99,36,0 66,28,74,36,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000042_0.jpg 54,21,81,28,0 54,22,59,28,1 67,21,73,28,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000042_1.jpg 132,54,198,72,0 132,57,148,72,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000042_2.jpg 70,30,105,40,0 71,32,79,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000043_0.jpg 54,24,81,32,0 54,25,60,32,1 68,25,74,31,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000043_1.jpg 134,63,201,84,0 135,66,150,82,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000043_2.jpg 70,33,105,44,0 71,36,79,44,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000044_0.jpg 56,24,84,32,0 57,26,63,32,1 71,25,77,32,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000044_1.jpg 134,60,201,80,0 134,63,148,79,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000044_2.jpg 70,27,105,36,0 71,28,79,36,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000045_0.jpg 56,21,84,28,0 56,22,63,27,1 71,21,77,27,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000045_1.jpg 134,57,201,76,0 135,59,151,75,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000045_2.jpg 68,27,102,36,0 68,29,76,37,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000046_0.jpg 54,21,81,28,0 55,22,60,28,1 68,22,75,28,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000046_1.jpg 134,57,201,76,0 134,60,150,76,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000046_2.jpg 70,27,105,36,0 71,28,79,36,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000047_0.jpg 54,21,81,28,0 54,21,60,28,1 68,21,74,27,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000047_1.jpg 134,57,201,76,0 135,59,151,74,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000047_2.jpg 70,30,105,40,0 71,32,79,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000048_0.jpg 56,24,84,32,0 56,25,62,31,1 70,25,76,31,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000048_1.jpg 136,57,204,76,0 137,59,152,74,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000048_2.jpg 70,27,105,36,0 71,28,79,36,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000049_0.jpg 54,21,81,28,0 55,21,60,28,1 69,21,74,27,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000049_1.jpg 134,57,201,76,0 134,60,149,75,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000049_2.jpg 68,30,102,40,0 68,33,76,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000050_0.jpg 56,24,84,32,0 57,25,62,32,1 70,25,75,31,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000050_1.jpg 136,60,204,80,0 137,64,153,79,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000050_2.jpg 68,30,102,40,0 68,32,77,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000051_0.jpg 56,24,84,32,0 57,25,63,31,1 71,25,76,31,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000051_1.jpg 134,60,201,80,0 135,64,151,79,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000051_2.jpg 70,30,105,40,0 71,32,79,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000052_0.jpg 56,21,84,28,0 57,22,62,28,1 71,21,76,27,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000052_1.jpg 134,60,201,80,0 135,63,151,78,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000052_2.jpg 70,30,105,40,0 71,33,79,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000053_0.jpg 56,21,84,28,0 57,22,62,28,1 71,21,76,27,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000053_1.jpg 134,57,201,76,0 135,58,151,73,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000053_2.jpg 68,27,102,36,0 68,29,76,36,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000054_0.jpg 54,18,81,24,0 55,19,60,24,1 69,18,74,24,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000054_1.jpg 134,57,201,76,0 134,59,150,73,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000054_2.jpg 66,33,99,44,0 66,36,74,44,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000055_0.jpg 54,21,81,28,0 55,21,60,28,1 68,21,73,27,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000055_1.jpg 136,57,204,76,0 137,59,153,75,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000055_2.jpg 70,30,105,40,0 71,33,79,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000056_0.jpg 56,21,84,28,0 57,22,63,27,1 71,21,76,27,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000056_1.jpg 136,57,204,76,0 137,58,153,75,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000056_2.jpg 70,27,105,36,0 71,29,79,36,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000057_0.jpg 54,21,81,28,0 54,21,60,28,1 69,21,74,27,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000057_1.jpg 134,60,201,80,0 136,61,150,77,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000057_2.jpg 66,30,99,40,0 66,32,74,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000058_0.jpg 54,18,81,24,0 55,18,60,24,1 68,18,73,24,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000058_1.jpg 134,57,201,76,0 135,59,149,74,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000058_2.jpg 66,30,99,40,0 66,33,74,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000059_0.jpg 54,21,81,28,0 54,21,60,28,1 68,21,73,27,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000059_1.jpg 134,60,201,80,0 135,64,149,79,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000059_2.jpg 68,30,102,40,0 69,33,76,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000060_0.jpg 54,21,81,28,0 54,21,60,28,1 68,21,73,27,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000060_1.jpg 134,60,201,80,0 135,63,150,79,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000060_2.jpg 66,27,99,36,0 67,29,74,36,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000061_0.jpg 56,21,84,28,0 56,21,62,28,1 70,21,76,27,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000061_1.jpg 134,54,201,72,0 136,57,149,71,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000061_2.jpg 68,30,102,40,0 69,33,77,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000062_0.jpg 54,21,81,28,0 54,22,60,28,1 68,22,74,28,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000062_1.jpg 134,57,201,76,0 134,58,150,75,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000062_2.jpg 68,27,102,36,0 68,29,76,36,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000063_0.jpg 56,21,84,28,0 56,21,62,28,1 70,21,76,27,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000063_1.jpg 136,54,204,72,0 137,56,152,71,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000063_2.jpg 68,30,102,40,0 69,32,77,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000064_0.jpg 54,21,81,28,0 54,21,61,28,1 68,21,73,27,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000064_1.jpg 132,57,198,76,0 133,59,147,75,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000064_2.jpg 68,30,102,40,0 69,32,77,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000065_0.jpg 54,21,81,28,0 54,21,60,28,1 68,21,74,28,5
+./traindata/JPEGImages/frame2728_to_frame2913_label_000065_1.jpg 132,60,198,80,0 133,63,149,78,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000065_2.jpg 70,30,105,40,0 71,32,79,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000066_0.jpg 54,18,81,24,0 61,19,66,24,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000066_1.jpg 136,54,204,72,0 155,55,170,70,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000066_2.jpg 70,30,105,40,0 80,32,87,39,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000067_0.jpg 56,21,84,28,0 63,22,68,27,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000067_1.jpg 134,51,201,68,0 153,52,167,68,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000067_2.jpg 68,30,102,40,0 78,32,85,39,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000068_0.jpg 56,21,84,28,0 63,21,69,27,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000068_1.jpg 134,54,201,72,0 152,56,167,70,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000068_2.jpg 70,27,105,36,0 79,28,87,35,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000069_0.jpg 58,24,87,32,0 65,25,71,31,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000069_1.jpg 134,51,201,68,0 152,52,167,66,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000069_2.jpg 70,24,105,32,0 80,25,88,32,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000070_0.jpg 58,24,87,32,0 65,25,71,31,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000070_1.jpg 134,51,201,68,0 152,52,167,66,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000070_2.jpg 70,30,105,40,0 79,32,87,39,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000071_0.jpg 58,21,87,28,0 65,21,71,28,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000071_1.jpg 136,51,204,68,0 156,52,170,66,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000071_2.jpg 70,30,105,40,0 79,32,88,39,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000072_0.jpg 56,21,84,28,0 63,21,68,27,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000072_1.jpg 134,57,201,76,0 153,60,166,74,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000072_2.jpg 70,27,105,36,0 79,27,88,35,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000073_0.jpg 56,21,84,28,0 63,21,69,27,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000073_1.jpg 134,51,201,68,0 152,51,166,68,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000073_2.jpg 72,30,108,40,0 82,32,90,39,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000074_0.jpg 56,18,84,24,0 63,18,68,24,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000074_1.jpg 136,51,204,68,0 155,52,169,67,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000074_2.jpg 68,27,102,36,0 77,29,85,36,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000075_0.jpg 58,21,87,28,0 65,22,71,28,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000075_1.jpg 140,54,210,72,0 159,55,174,71,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000075_2.jpg 70,30,105,40,0 79,32,87,39,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000076_0.jpg 60,24,90,32,0 68,25,73,31,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000076_1.jpg 150,60,225,80,0 171,62,185,77,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000076_2.jpg 74,30,111,40,0 84,32,92,40,2
+./traindata/JPEGImages/frame2728_to_frame2913_label_000078_0.jpg 62,24,93,32,0 62,25,67,32,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000078_1.jpg 76,33,114,44,0 78,35,86,44,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000078_2.jpg 170,78,255,104,0 170,82,190,98,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000079_0.jpg 64,24,96,32,0 65,24,70,31,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000079_1.jpg 78,33,117,44,0 78,35,88,44,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000079_2.jpg 186,78,279,104,0 186,81,208,100,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000080_0.jpg 66,30,99,40,0 66,32,72,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000080_1.jpg 88,39,132,52,0 89,41,99,51,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000080_2.jpg 224,93,336,124,0 226,99,249,119,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000081_0.jpg 72,27,108,36,0 73,29,80,36,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000081_1.jpg 90,39,135,52,0 91,41,102,52,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000081_2.jpg 248,105,372,140,0 249,111,274,136,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000082_0.jpg 70,27,105,36,0 70,28,77,35,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000082_1.jpg 94,42,141,56,0 94,44,106,55,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000082_2.jpg 286,114,429,152,0 289,119,317,144,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000083_0.jpg 74,30,111,40,0 74,32,80,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000083_1.jpg 94,45,141,60,0 94,48,105,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000083_2.jpg 304,132,456,176,0 307,143,333,168,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000084_0.jpg 74,30,111,40,0 75,31,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000084_1.jpg 94,42,141,56,0 94,43,105,55,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000084_2.jpg 308,138,462,184,0 310,149,342,174,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000085_0.jpg 72,30,108,40,0 72,31,80,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000085_1.jpg 96,48,144,64,0 97,51,108,63,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000085_2.jpg 302,147,453,196,0 303,159,335,182,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000086_0.jpg 72,30,108,40,0 72,31,79,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000086_1.jpg 98,45,147,60,0 99,47,109,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000086_2.jpg 306,141,459,188,0 306,153,339,175,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000087_0.jpg 74,30,111,40,0 75,32,82,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000087_1.jpg 100,45,150,60,0 101,47,112,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000087_2.jpg 306,141,459,188,0 308,152,339,174,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000088_0.jpg 74,27,111,36,0 74,28,81,35,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000088_1.jpg 94,42,141,56,0 94,45,105,55,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000088_2.jpg 304,144,456,192,0 305,154,336,176,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000089_0.jpg 76,27,114,36,0 77,28,84,36,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000089_1.jpg 96,42,144,56,0 97,44,108,56,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000089_2.jpg 304,153,456,204,0 306,164,337,186,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000090_0.jpg 74,30,111,40,0 75,31,82,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000090_1.jpg 94,42,141,56,0 94,44,105,55,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000090_2.jpg 310,156,465,208,0 311,165,344,189,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000091_0.jpg 74,30,111,40,0 75,32,82,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000091_1.jpg 96,39,144,52,0 96,40,107,52,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000091_2.jpg 306,165,459,220,0 309,180,340,203,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000092_0.jpg 76,30,114,40,0 77,31,84,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000092_1.jpg 98,36,147,48,0 98,36,109,47,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000092_2.jpg 306,165,459,220,0 311,180,339,202,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000093_0.jpg 74,30,111,40,0 74,31,81,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000093_1.jpg 96,39,144,52,0 96,40,108,52,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000093_2.jpg 310,153,465,204,0 311,166,344,189,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000094_0.jpg 72,30,108,40,0 72,31,78,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000094_1.jpg 98,42,147,56,0 99,45,110,56,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000094_2.jpg 306,144,459,192,0 309,156,340,178,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000095_0.jpg 74,30,111,40,0 75,31,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000095_1.jpg 96,42,144,56,0 96,44,108,56,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000095_2.jpg 312,141,468,188,0 315,153,346,174,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000096_0.jpg 74,30,111,40,0 74,31,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000096_1.jpg 94,39,141,52,0 94,40,104,51,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000096_2.jpg 304,156,456,208,0 306,167,334,190,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000097_0.jpg 74,27,111,36,0 75,28,82,36,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000097_1.jpg 96,42,144,56,0 97,44,108,55,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000097_2.jpg 308,159,462,212,0 312,172,341,196,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000098_0.jpg 74,27,111,36,0 75,27,82,35,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000098_1.jpg 96,39,144,52,0 97,40,107,52,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000098_2.jpg 306,159,459,212,0 311,175,340,197,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000099_0.jpg 74,27,111,36,0 75,27,82,35,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000099_1.jpg 96,42,144,56,0 96,44,107,55,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000099_2.jpg 310,156,465,208,0 313,168,341,191,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000100_0.jpg 74,30,111,40,0 75,31,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000100_1.jpg 96,39,144,52,0 97,40,107,51,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000100_2.jpg 310,156,465,208,0 312,168,342,193,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000101_0.jpg 74,30,111,40,0 75,31,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000101_1.jpg 96,39,144,52,0 97,40,108,51,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000101_2.jpg 308,156,462,208,0 311,168,340,190,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000102_0.jpg 72,30,108,40,0 72,31,78,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000102_1.jpg 98,42,147,56,0 99,44,110,56,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000102_2.jpg 308,165,462,220,0 311,178,343,202,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000103_0.jpg 74,30,111,40,0 75,31,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000103_1.jpg 98,42,147,56,0 99,43,109,55,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000103_2.jpg 308,153,462,204,0 310,163,340,191,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000104_0.jpg 74,30,111,40,0 75,31,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000104_1.jpg 98,39,147,52,0 99,41,110,52,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000104_2.jpg 312,159,468,212,0 317,173,345,196,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000105_0.jpg 74,30,111,40,0 75,31,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000105_1.jpg 98,39,147,52,0 98,40,109,52,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000105_2.jpg 312,156,468,208,0 315,170,344,191,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000106_0.jpg 74,30,111,40,0 75,31,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000106_1.jpg 96,42,144,56,0 97,43,108,55,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000106_2.jpg 312,156,468,208,0 315,168,342,192,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000107_0.jpg 74,30,111,40,0 75,31,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000107_1.jpg 94,39,141,52,0 94,41,105,51,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000107_2.jpg 306,159,459,212,0 309,170,336,192,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000108_0.jpg 76,30,114,40,0 77,31,84,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000108_1.jpg 96,36,144,48,0 97,37,107,48,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000108_2.jpg 304,156,456,208,0 307,169,336,190,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000109_0.jpg 72,30,108,40,0 72,31,79,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000109_1.jpg 96,42,144,56,0 97,44,108,55,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000109_2.jpg 306,153,459,204,0 309,166,338,189,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000110_0.jpg 74,30,111,40,0 75,31,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000110_1.jpg 96,42,144,56,0 97,43,107,54,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000110_2.jpg 312,147,468,196,0 315,162,346,183,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000111_0.jpg 74,30,111,40,0 75,31,82,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000111_1.jpg 96,45,144,60,0 96,47,108,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000111_2.jpg 308,144,462,192,0 312,156,342,176,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000112_0.jpg 74,27,111,36,0 75,28,82,36,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000112_1.jpg 96,45,144,60,0 96,47,107,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000112_2.jpg 304,153,456,204,0 306,163,335,188,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000113_0.jpg 74,30,111,40,0 75,31,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000113_1.jpg 98,42,147,56,0 99,44,110,54,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000113_2.jpg 306,147,459,196,0 310,158,339,184,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000114_0.jpg 74,27,111,36,0 75,28,82,36,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000114_1.jpg 94,45,141,60,0 94,48,105,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000114_2.jpg 302,159,453,212,0 304,172,333,196,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000115_0.jpg 74,30,111,40,0 74,32,81,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000115_1.jpg 96,45,144,60,0 97,47,108,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000115_2.jpg 306,165,459,220,0 308,180,338,204,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000116_0.jpg 76,30,114,40,0 77,31,84,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000116_1.jpg 96,42,144,56,0 97,44,108,55,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000116_2.jpg 312,153,468,204,0 315,164,347,190,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000117_0.jpg 74,27,111,36,0 75,27,82,36,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000117_1.jpg 96,45,144,60,0 97,48,108,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000117_2.jpg 310,147,465,196,0 314,159,345,183,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000118_0.jpg 74,30,111,40,0 75,32,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000118_1.jpg 94,42,141,56,0 94,45,105,55,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000118_2.jpg 312,159,468,212,0 314,171,347,196,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000119_0.jpg 74,30,111,40,0 75,32,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000119_1.jpg 98,39,147,52,0 99,40,110,52,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000119_2.jpg 310,153,465,204,0 313,165,343,191,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000120_0.jpg 74,30,111,40,0 75,31,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000120_1.jpg 98,42,147,56,0 99,43,110,55,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000120_2.jpg 308,159,462,212,0 313,174,342,199,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000121_0.jpg 74,30,111,40,0 75,31,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000121_1.jpg 96,42,144,56,0 96,44,107,55,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000121_2.jpg 312,153,468,204,0 318,167,345,187,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000122_0.jpg 76,30,114,40,0 77,31,84,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000122_1.jpg 96,45,144,60,0 97,47,108,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000122_2.jpg 314,147,471,196,0 318,160,348,183,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000123_0.jpg 76,27,114,36,0 77,28,84,36,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000123_1.jpg 96,45,144,60,0 97,47,109,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000123_2.jpg 304,159,456,212,0 306,172,337,193,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000124_0.jpg 74,30,111,40,0 75,31,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000124_1.jpg 96,45,144,60,0 96,47,107,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000124_2.jpg 308,159,462,212,0 314,170,341,194,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000125_0.jpg 74,30,111,40,0 75,31,82,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000125_1.jpg 98,42,147,56,0 99,45,109,56,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000125_2.jpg 310,156,465,208,0 314,168,344,193,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000126_0.jpg 74,30,111,40,0 75,31,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000126_1.jpg 94,45,141,60,0 94,48,105,60,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000126_2.jpg 306,159,459,212,0 308,171,337,195,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000127_0.jpg 72,30,108,40,0 72,31,79,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000127_1.jpg 94,42,141,56,0 95,44,106,55,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000127_2.jpg 312,159,468,212,0 313,171,348,197,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000128_0.jpg 72,30,108,40,0 72,31,79,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000128_1.jpg 96,45,144,60,0 97,47,107,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000128_2.jpg 308,156,462,208,0 312,169,342,194,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000129_0.jpg 72,30,108,40,0 72,31,79,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000129_1.jpg 98,42,147,56,0 99,44,110,56,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000129_2.jpg 308,159,462,212,0 312,172,343,194,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000130_0.jpg 74,30,111,40,0 74,31,80,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000130_1.jpg 98,45,147,60,0 99,49,110,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000130_2.jpg 306,150,459,200,0 310,161,340,186,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000131_0.jpg 72,30,108,40,0 72,31,79,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000131_1.jpg 96,45,144,60,0 96,48,107,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000131_2.jpg 312,165,468,220,0 316,178,345,201,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000132_0.jpg 74,30,111,40,0 75,31,81,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000132_1.jpg 96,45,144,60,0 97,48,108,60,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000132_2.jpg 306,162,459,216,0 309,175,340,200,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000133_0.jpg 72,30,108,40,0 72,31,79,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000133_1.jpg 96,39,144,52,0 96,41,107,52,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000133_2.jpg 308,156,462,208,0 314,168,342,191,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000134_0.jpg 74,30,111,40,0 75,31,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000134_1.jpg 98,42,147,56,0 99,43,112,56,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000134_2.jpg 312,166,468,222,0 315,183,345,205,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000135_0.jpg 74,27,111,36,0 75,27,82,35,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000135_1.jpg 96,39,144,52,0 96,41,107,52,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000135_2.jpg 314,165,471,222,0 316,180,348,206,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000136_0.jpg 74,30,111,40,0 75,32,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000136_1.jpg 94,42,141,56,0 94,44,105,56,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000136_2.jpg 312,165,468,223,0 315,179,348,207,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000137_0.jpg 74,30,111,40,0 75,32,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000137_1.jpg 96,42,144,56,0 96,44,107,55,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000137_2.jpg 308,164,462,221,0 312,181,341,204,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000138_0.jpg 74,30,111,40,0 75,32,82,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000138_1.jpg 94,45,141,60,0 94,48,105,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000138_2.jpg 310,163,465,223,0 311,182,343,207,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000139_0.jpg 72,30,108,40,0 72,31,79,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000139_1.jpg 96,39,144,52,0 97,41,108,53,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000139_2.jpg 306,164,459,224,0 310,182,344,208,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000140_0.jpg 74,30,111,40,0 75,31,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000140_1.jpg 96,42,144,56,0 96,45,108,55,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000140_2.jpg 306,164,459,222,0 308,184,340,208,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000141_0.jpg 76,30,114,40,0 77,31,84,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000141_1.jpg 96,42,144,56,0 96,44,108,55,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000141_2.jpg 312,165,468,220,0 314,182,346,206,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000142_0.jpg 74,30,111,40,0 75,31,81,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000142_1.jpg 96,39,144,52,0 97,41,108,52,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000142_2.jpg 306,165,459,222,0 306,179,339,205,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000143_0.jpg 74,30,111,40,0 75,31,82,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000143_1.jpg 98,45,147,60,0 99,47,110,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000143_2.jpg 302,165,453,222,0 303,182,335,209,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000144_0.jpg 74,30,111,40,0 75,31,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000144_1.jpg 96,45,144,60,0 96,47,108,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000144_2.jpg 308,165,462,220,0 309,180,341,204,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000145_0.jpg 72,30,108,40,0 72,32,78,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000145_1.jpg 98,45,147,60,0 99,47,110,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000145_2.jpg 312,164,468,222,0 318,182,348,207,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000146_0.jpg 72,30,108,40,0 72,31,78,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000146_1.jpg 96,45,144,60,0 97,48,108,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000146_2.jpg 312,162,468,222,0 317,182,347,207,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000147_0.jpg 72,30,108,40,0 72,31,78,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000147_1.jpg 98,39,147,52,0 99,41,110,52,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000147_2.jpg 310,162,465,224,0 313,182,345,205,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000148_0.jpg 74,30,111,40,0 75,31,81,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000148_1.jpg 98,42,147,56,0 99,44,110,55,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000148_2.jpg 310,165,465,222,0 313,181,342,202,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000149_0.jpg 70,30,105,40,0 70,31,76,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000149_1.jpg 96,45,144,60,0 97,48,108,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000149_2.jpg 306,168,459,224,0 310,179,341,206,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000150_0.jpg 70,30,105,40,0 70,31,76,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000150_1.jpg 100,45,150,60,0 101,48,113,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000150_2.jpg 308,153,462,204,0 309,164,340,188,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000151_0.jpg 74,30,111,40,0 75,31,82,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000151_1.jpg 94,45,141,60,0 94,47,105,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000151_2.jpg 306,166,459,222,0 307,181,337,206,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000152_0.jpg 74,27,111,36,0 75,28,81,36,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000152_1.jpg 94,48,141,64,0 94,51,105,63,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000152_2.jpg 312,159,468,212,0 315,171,348,197,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000153_0.jpg 72,30,108,40,0 72,31,79,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000153_1.jpg 94,42,141,56,0 94,45,105,56,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000153_2.jpg 308,166,462,222,0 311,183,339,205,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000154_0.jpg 74,30,111,40,0 75,32,82,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000154_1.jpg 98,42,147,56,0 98,43,110,55,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000154_2.jpg 304,165,456,221,0 305,182,334,205,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000155_0.jpg 76,30,114,40,0 77,31,84,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000155_1.jpg 96,39,144,52,0 96,40,109,52,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000155_2.jpg 310,141,465,188,0 314,151,344,175,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000156_0.jpg 72,30,108,40,0 73,32,79,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000156_1.jpg 98,39,147,52,0 98,40,110,52,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000156_2.jpg 314,147,471,196,0 319,157,348,180,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000157_0.jpg 74,30,111,40,0 75,32,81,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000157_1.jpg 98,39,147,52,0 99,40,111,52,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000157_2.jpg 312,138,468,184,0 316,147,348,173,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000158_0.jpg 74,30,111,40,0 75,32,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000158_1.jpg 100,39,150,52,0 100,40,112,52,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000158_2.jpg 312,138,468,184,0 318,147,347,171,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000159_0.jpg 74,30,111,40,0 75,32,82,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000159_1.jpg 94,45,141,60,0 94,47,105,60,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000159_2.jpg 314,135,471,180,0 320,143,350,164,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000160_0.jpg 74,30,111,40,0 75,31,81,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000160_1.jpg 96,42,144,56,0 96,44,108,56,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000160_2.jpg 312,138,468,184,0 315,144,346,167,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000161_0.jpg 74,30,111,40,0 75,31,81,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000161_1.jpg 98,45,147,60,0 99,48,111,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000161_2.jpg 316,147,474,196,0 319,156,352,180,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000162_0.jpg 74,30,111,40,0 76,31,82,40,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000162_1.jpg 94,42,141,56,0 94,45,105,56,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000162_2.jpg 310,141,465,188,0 313,147,343,171,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000163_0.jpg 76,30,114,40,0 77,31,83,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000163_1.jpg 96,39,144,52,0 97,41,108,52,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000163_2.jpg 312,138,468,184,0 318,146,346,171,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000164_0.jpg 74,30,111,40,0 75,32,81,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000164_1.jpg 98,39,147,52,0 99,40,111,51,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000164_2.jpg 312,138,468,184,0 317,146,346,168,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000165_0.jpg 70,30,105,40,0 70,31,77,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000165_1.jpg 98,42,147,56,0 98,44,111,56,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000165_2.jpg 310,132,465,176,0 314,139,343,164,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000166_0.jpg 74,27,111,36,0 75,29,81,36,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000166_1.jpg 96,42,144,56,0 96,44,107,55,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000166_2.jpg 314,129,471,172,0 322,134,349,162,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000167_0.jpg 70,30,105,40,0 70,32,76,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000167_1.jpg 94,39,141,52,0 94,40,105,52,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000167_2.jpg 318,144,477,192,0 324,152,354,179,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000168_0.jpg 72,30,108,40,0 72,31,78,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000168_1.jpg 96,39,144,52,0 96,41,108,51,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000168_2.jpg 310,141,465,188,0 316,147,347,179,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000169_0.jpg 72,30,108,40,0 72,31,78,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000169_1.jpg 96,45,144,60,0 95,48,108,59,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000169_2.jpg 316,135,474,180,0 321,143,350,171,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000170_0.jpg 70,30,105,40,0 70,31,76,39,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000170_1.jpg 100,39,150,52,0 101,40,113,51,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000170_2.jpg 308,138,462,184,0 313,145,342,173,1
+./traindata/JPEGImages/frame2728_to_frame2913_label_000171_0.jpg 74,27,111,36,0
+./traindata/JPEGImages/frame2728_to_frame2913_label_000171_1.jpg 96,39,144,52,0 122,39,131,50,4 132,39,143,50,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000171_2.jpg 306,129,459,172,0 386,133,418,160,4 427,131,455,154,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000172_0.jpg 74,27,111,36,0
+./traindata/JPEGImages/frame2728_to_frame2913_label_000172_1.jpg 96,42,144,56,0 121,44,132,54,4 133,44,144,54,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000172_2.jpg 308,117,462,156,0 391,120,420,143,4 434,118,458,143,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000173_0.jpg 74,27,111,36,0
+./traindata/JPEGImages/frame2728_to_frame2913_label_000173_1.jpg 96,36,144,48,0 121,36,132,47,4 132,36,144,47,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000173_2.jpg 308,126,462,168,0 390,131,417,153,4 431,129,456,151,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000174_0.jpg 76,27,114,36,0
+./traindata/JPEGImages/frame2728_to_frame2913_label_000174_1.jpg 96,39,144,52,0 121,39,132,50,4 133,39,143,49,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000174_2.jpg 308,126,462,168,0 391,131,420,154,4 433,130,457,154,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000175_0.jpg 74,24,111,32,0
+./traindata/JPEGImages/frame2728_to_frame2913_label_000175_1.jpg 98,39,147,52,0 123,40,134,50,4 135,40,145,50,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000175_2.jpg 304,120,456,160,0 386,126,412,149,4 424,124,455,152,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000176_0.jpg 76,27,114,36,0
+./traindata/JPEGImages/frame2728_to_frame2913_label_000176_1.jpg 94,36,141,48,0 118,36,129,47,4 130,36,141,46,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000176_2.jpg 310,141,465,188,0 395,149,424,171,4 435,146,459,170,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000177_0.jpg 76,30,114,40,0
+./traindata/JPEGImages/frame2728_to_frame2913_label_000177_1.jpg 96,36,144,48,0 121,36,132,47,4 133,36,144,46,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000177_2.jpg 320,126,480,168,0 408,132,439,157,4 452,132,478,154,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000178_0.jpg 78,27,117,36,0
+./traindata/JPEGImages/frame2728_to_frame2913_label_000178_1.jpg 98,39,147,52,0 124,40,134,51,4 135,40,146,50,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000178_2.jpg 322,132,483,176,0 410,142,440,162,4 454,138,481,161,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000179_0.jpg 76,27,114,36,0
+./traindata/JPEGImages/frame2728_to_frame2913_label_000179_1.jpg 100,42,150,56,0 125,44,137,55,4 138,43,149,54,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000179_2.jpg 346,115,519,165,0 440,123,471,148,4 486,120,515,147,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000180_0.jpg 78,30,117,40,0
+./traindata/JPEGImages/frame2728_to_frame2913_label_000180_1.jpg 100,45,150,60,0 126,46,137,58,4 138,46,149,57,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000180_2.jpg 370,63,555,119,0 472,72,504,99,4 521,69,551,96,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000181_0.jpg 82,30,123,40,0
+./traindata/JPEGImages/frame2728_to_frame2913_label_000181_1.jpg 106,45,159,60,0 133,46,145,59,4 146,46,158,58,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000182_0.jpg 86,30,129,40,0
+./traindata/JPEGImages/frame2728_to_frame2913_label_000182_1.jpg 112,45,168,60,0 141,46,154,59,4 155,46,167,58,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000183_0.jpg 88,33,132,44,0
+./traindata/JPEGImages/frame2728_to_frame2913_label_000183_1.jpg 118,48,177,64,0 149,49,162,62,4 163,49,176,61,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000184_0.jpg 92,30,138,40,0
+./traindata/JPEGImages/frame2728_to_frame2913_label_000184_1.jpg 128,54,192,72,0 161,55,175,71,4 175,54,190,70,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000185_0.jpg 98,33,147,44,0
+./traindata/JPEGImages/frame2728_to_frame2913_label_000185_1.jpg 142,57,213,76,0 179,58,194,74,4 196,58,212,73,6
+./traindata/JPEGImages/frame2728_to_frame2913_label_000186_0.jpg 98,33,147,44,0
+./traindata/JPEGImages/frame2728_to_frame2913_label_000186_1.jpg 140,63,210,84,0 175,66,192,81,4 194,65,209,80,6
+./traindata/JPEGImages/frame3099_to_frame3159_label_000032_0.jpg 70,30,105,40,0 88,32,95,39,4 95,31,103,39,6
+./traindata/JPEGImages/frame3099_to_frame3159_label_000033_0.jpg 76,36,114,48,0 96,38,103,47,4 104,38,113,46,6
+./traindata/JPEGImages/frame3099_to_frame3159_label_000034_0.jpg 80,36,120,48,0 101,38,109,47,4 110,38,119,47,6
+./traindata/JPEGImages/frame3099_to_frame3159_label_000035_0.jpg 92,42,138,56,0 117,44,126,54,4 127,44,137,53,6
+./traindata/JPEGImages/frame3099_to_frame3159_label_000036_0.jpg 110,48,165,64,0 139,50,150,63,4 152,50,164,62,6
+./traindata/JPEGImages/frame3099_to_frame3159_label_000037_0.jpg 128,60,192,80,0 161,62,174,77,4 177,62,190,76,6
+./traindata/JPEGImages/frame3099_to_frame3159_label_000038_0.jpg 156,69,234,92,0 198,73,212,90,4 216,73,231,89,6
+./traindata/JPEGImages/frame3099_to_frame3159_label_000039_0.jpg 194,93,291,124,0 246,99,265,120,4 269,99,289,119,6
+./traindata/JPEGImages/frame3099_to_frame3159_label_000040_0.jpg 282,159,423,212,0 358,174,381,201,4 388,172,412,201,6
+./traindata/JPEGImages/frame3099_to_frame3159_label_000041_0.jpg 392,4,588,87,0 494,27,528,71,4 541,27,578,71,6
+./traindata/JPEGImages/frame3099_to_frame3159_label_000055_0.jpg 66,33,99,44,0 83,34,90,43,4 91,35,99,41,6
+./traindata/JPEGImages/frame3099_to_frame3159_label_000056_0.jpg 72,39,108,52,0 91,41,98,49,4 99,41,107,48,6
+./traindata/JPEGImages/frame3099_to_frame3159_label_000057_0.jpg 84,42,126,56,0 106,44,115,54,4 116,44,125,53,6
+./traindata/JPEGImages/frame3099_to_frame3159_label_000058_0.jpg 92,45,138,60,0 116,47,126,57,4 128,46,137,56,6
+./traindata/JPEGImages/frame3099_to_frame3159_label_000059_0.jpg 106,48,159,64,0 120,51,132,62,2
+./traindata/JPEGImages/frame3099_to_frame3159_label_000060_0.jpg 130,57,195,76,0 148,61,162,75,2
+./traindata/JPEGImages/frame3099_to_frame3159_label_000061_0.jpg 132,66,198,88,0 149,70,163,84,2
+./traindata/JPEGImages/frame3337_to_frame3431_label_000036_0.jpg 86,30,129,40,0 86,31,95,40,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000036_1.jpg 80,30,120,40,0 80,32,89,40,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000036_4.jpg 250,114,375,152,0
+./traindata/JPEGImages/frame3337_to_frame3431_label_000037_0.jpg 92,33,138,44,0 92,33,101,44,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000037_1.jpg 86,33,129,44,0 86,34,96,44,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000037_4.jpg 310,153,465,204,0
+./traindata/JPEGImages/frame3337_to_frame3431_label_000038_0.jpg 98,36,147,48,0 98,36,108,47,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000038_1.jpg 92,33,138,44,0 93,34,102,44,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000038_4.jpg 412,38,618,103,0
+./traindata/JPEGImages/frame3337_to_frame3431_label_000039_0.jpg 110,39,165,52,0 110,40,121,50,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000039_1.jpg 100,39,150,52,0 100,41,111,51,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000040_0.jpg 120,42,180,56,0 120,42,132,55,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000040_1.jpg 108,39,162,52,0 109,40,120,52,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000041_0.jpg 130,45,195,60,0 130,45,143,59,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000041_1.jpg 114,45,171,60,0 114,47,127,59,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000042_0.jpg 144,51,216,68,0 144,51,159,67,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000042_1.jpg 124,48,186,64,0 124,50,138,64,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000043_0.jpg 154,54,231,72,0 154,56,168,71,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000043_1.jpg 132,54,198,72,0 132,57,147,72,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000044_0.jpg 178,66,267,88,0 180,69,196,87,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000044_1.jpg 144,63,216,84,0 144,66,160,83,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000045_0.jpg 158,78,261,104,0 162,83,178,102,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000045_1.jpg 162,78,243,104,0 162,84,179,101,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000046_0.jpg 78,72,190,96,0 81,73,98,95,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000046_1.jpg 180,84,270,112,0 181,89,200,110,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000046_2.jpg 44,18,66,24,0 44,19,49,24,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000047_0.jpg 198,96,297,128,0 199,103,220,126,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000047_1.jpg 38,18,57,24,0 38,19,42,24,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000047_2.jpg 44,18,66,24,0 44,19,48,24,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000048_0.jpg 220,99,330,132,0 221,105,246,131,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000049_0.jpg 252,111,378,148,0 255,119,280,147,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000049_2.jpg 46,18,69,24,0 46,19,50,24,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000050_0.jpg 310,150,465,200,0 311,162,343,198,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000050_1.jpg 40,18,60,24,0 40,19,44,23,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000050_2.jpg 48,21,72,28,0 48,22,53,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000051_0.jpg 374,85,561,144,0 381,99,416,141,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000051_1.jpg 42,18,63,24,0 42,19,47,24,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000051_2.jpg 50,21,75,28,0 50,22,55,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000052_0.jpg 44,18,66,24,0 44,19,49,24,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000052_1.jpg 50,18,75,24,0 50,19,55,24,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000053_0.jpg 46,21,69,28,0 46,23,52,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000053_1.jpg 54,21,81,28,0 54,22,60,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000054_0.jpg 46,18,69,24,0 46,18,52,24,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000054_1.jpg 56,21,84,28,0 56,22,62,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000055_0.jpg 46,21,69,28,0 46,23,51,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000055_1.jpg 56,21,84,28,0 56,22,62,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000056_0.jpg 46,18,69,24,0 46,18,51,24,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000056_1.jpg 58,21,87,28,0 58,22,64,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000057_0.jpg 48,18,72,24,0 48,18,54,24,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000057_1.jpg 56,24,84,32,0 56,26,62,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000058_0.jpg 48,21,72,28,0 48,22,54,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000058_1.jpg 58,24,87,32,0 58,25,64,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000059_0.jpg 48,18,72,24,0 48,18,54,24,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000059_1.jpg 58,24,87,32,0 58,25,66,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000060_0.jpg 48,18,72,24,0 48,18,54,24,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000060_1.jpg 56,24,84,32,0 56,25,62,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000061_0.jpg 48,18,72,24,0 48,18,54,24,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000061_1.jpg 56,24,84,32,0 56,25,62,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000062_0.jpg 48,24,72,32,0 48,25,54,31,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000062_1.jpg 60,24,90,32,0 60,25,67,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000063_0.jpg 48,24,72,32,0 48,25,54,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000063_1.jpg 60,21,90,28,0 61,21,67,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000064_0.jpg 50,21,75,28,0 50,22,57,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000064_1.jpg 56,21,84,28,0 56,22,62,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000065_0.jpg 50,21,75,28,0 50,22,56,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000065_1.jpg 56,24,84,32,0 56,25,63,31,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000066_0.jpg 48,21,72,28,0 48,22,54,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000066_1.jpg 56,18,84,24,0 56,18,62,24,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000067_0.jpg 48,21,72,28,0 48,21,54,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000067_1.jpg 60,21,90,28,0 60,22,67,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000068_0.jpg 48,21,72,28,0 48,22,54,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000068_1.jpg 60,24,90,32,0 60,25,67,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000069_0.jpg 48,24,72,32,0 48,25,54,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000069_1.jpg 60,24,90,32,0 60,24,67,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000070_0.jpg 48,21,72,28,0 49,21,54,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000070_1.jpg 58,24,87,32,0 59,25,65,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000071_0.jpg 46,21,69,28,0 46,22,52,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000071_1.jpg 56,24,84,32,0 56,25,62,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000072_0.jpg 48,18,72,24,0 48,18,54,24,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000072_1.jpg 58,24,87,32,0 58,25,65,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000073_0.jpg 48,21,72,28,0 48,22,53,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000073_1.jpg 58,21,87,28,0 59,22,65,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000074_0.jpg 50,21,75,28,0 50,22,57,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000074_1.jpg 60,24,90,32,0 60,25,67,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000075_0.jpg 48,24,72,32,0 48,25,54,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000075_1.jpg 58,24,87,32,0 58,25,65,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000076_0.jpg 52,24,78,32,0 53,25,59,32,1 72,24,78,31,6
+./traindata/JPEGImages/frame3337_to_frame3431_label_000076_1.jpg 56,24,84,32,0 56,25,62,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000077_0.jpg 50,21,75,28,0 50,22,55,28,1 68,21,74,28,6
+./traindata/JPEGImages/frame3337_to_frame3431_label_000077_1.jpg 56,24,84,32,0 56,25,62,31,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000078_0.jpg 50,21,75,28,0 51,22,57,28,1 68,21,75,28,6
+./traindata/JPEGImages/frame3337_to_frame3431_label_000078_1.jpg 58,24,87,32,0 58,25,65,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000079_0.jpg 50,24,75,32,0 51,26,57,31,1 68,24,75,31,6
+./traindata/JPEGImages/frame3337_to_frame3431_label_000079_1.jpg 56,24,84,32,0 56,25,62,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000080_0.jpg 52,21,78,28,0 53,22,59,28,1 70,21,77,28,6
+./traindata/JPEGImages/frame3337_to_frame3431_label_000080_1.jpg 58,24,87,32,0 58,25,65,31,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000081_0.jpg 50,24,75,32,0 50,25,57,32,1 68,24,75,32,6
+./traindata/JPEGImages/frame3337_to_frame3431_label_000081_1.jpg 60,27,90,36,0 60,28,67,36,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000082_0.jpg 50,24,75,32,0 51,25,57,32,1 68,24,75,32,6
+./traindata/JPEGImages/frame3337_to_frame3431_label_000082_1.jpg 58,24,87,32,0 58,25,65,31,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000083_0.jpg 52,21,78,28,0 53,22,59,28,1 70,21,77,28,6
+./traindata/JPEGImages/frame3337_to_frame3431_label_000083_1.jpg 58,24,87,32,0 58,25,65,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000084_0.jpg 48,24,72,32,0 48,25,54,31,1 66,24,72,31,6
+./traindata/JPEGImages/frame3337_to_frame3431_label_000084_1.jpg 58,24,87,32,0 58,25,65,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000085_0.jpg 48,21,72,28,0 48,22,54,28,1 65,21,72,28,6
+./traindata/JPEGImages/frame3337_to_frame3431_label_000085_1.jpg 58,24,87,32,0 58,25,65,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000086_0.jpg 48,21,72,28,0 48,22,53,28,1 65,21,72,28,6
+./traindata/JPEGImages/frame3337_to_frame3431_label_000086_1.jpg 58,21,87,28,0 58,21,65,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000087_0.jpg 52,24,78,32,0 52,25,58,31,1 70,25,77,31,6
+./traindata/JPEGImages/frame3337_to_frame3431_label_000087_1.jpg 58,21,87,28,0 58,21,64,28,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000088_0.jpg 50,21,75,28,0 50,21,56,28,1 68,21,75,27,6
+./traindata/JPEGImages/frame3337_to_frame3431_label_000088_1.jpg 58,24,87,32,0 58,25,65,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000089_0.jpg 52,21,78,28,0 52,22,58,28,1 71,21,78,28,6
+./traindata/JPEGImages/frame3337_to_frame3431_label_000089_1.jpg 60,24,90,32,0 60,25,66,32,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000090_0.jpg 52,18,78,24,0 52,18,58,24,1 70,18,77,24,6
+./traindata/JPEGImages/frame3337_to_frame3431_label_000090_1.jpg 62,27,93,36,0 62,28,70,36,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000091_0.jpg 54,24,81,32,0 54,24,61,32,1 74,24,81,31,6
+./traindata/JPEGImages/frame3337_to_frame3431_label_000091_1.jpg 64,27,96,36,0 64,28,70,36,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000092_0.jpg 56,21,84,28,0 56,22,63,28,1 77,21,84,27,6
+./traindata/JPEGImages/frame3337_to_frame3431_label_000092_1.jpg 70,27,105,36,0 70,27,77,35,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000093_0.jpg 60,24,90,32,0 61,25,68,31,1 82,25,89,31,6
+./traindata/JPEGImages/frame3337_to_frame3431_label_000093_1.jpg 72,30,108,40,0 73,31,80,39,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000094_0.jpg 58,24,87,32,0 58,25,65,32,1 80,25,87,32,6
+./traindata/JPEGImages/frame3337_to_frame3431_label_000094_1.jpg 76,27,114,36,0 76,28,83,36,1
+./traindata/JPEGImages/frame3337_to_frame3431_label_000095_0.jpg 64,30,96,40,0 65,31,73,38,1 88,31,95,39,6
+./traindata/JPEGImages/frame3337_to_frame3431_label_000095_1.jpg 82,33,123,44,0 82,33,90,43,1
+./traindata/JPEGImages/frame3607_to_frame3652_label_000030_0.jpg 42,21,63,28,0 56,23,61,27,3
+./traindata/JPEGImages/frame3607_to_frame3652_label_000030_1.jpg 32,21,48,28,0 42,23,46,27,3
+./traindata/JPEGImages/frame3607_to_frame3652_label_000031_0.jpg 46,24,69,32,0 62,26,67,30,3
+./traindata/JPEGImages/frame3607_to_frame3652_label_000032_0.jpg 46,24,69,32,0 62,25,67,30,3
+./traindata/JPEGImages/frame3607_to_frame3652_label_000033_0.jpg 52,36,78,48,0 70,39,76,45,3
+./traindata/JPEGImages/frame3607_to_frame3652_label_000034_0.jpg 56,36,84,48,0 75,39,81,45,3
+./traindata/JPEGImages/frame3607_to_frame3652_label_000035_0.jpg 62,36,93,48,0 83,38,92,46,3
+./traindata/JPEGImages/frame3607_to_frame3652_label_000036_0.jpg 70,42,105,56,0 93,46,103,55,3
+./traindata/JPEGImages/frame3607_to_frame3652_label_000037_0.jpg 80,48,120,64,0 108,52,117,62,3
+./traindata/JPEGImages/frame3607_to_frame3652_label_000038_0.jpg 90,57,135,76,0 122,62,133,74,3
+./traindata/JPEGImages/frame3607_to_frame3652_label_000039_0.jpg 108,72,162,96,0 146,79,160,93,3
+./traindata/JPEGImages/frame3607_to_frame3652_label_000040_0.jpg 152,99,228,132,0 205,108,224,128,3
+./traindata/JPEGImages/frame3607_to_frame3652_label_000040_1.jpg 54,30,81,40,0 72,32,79,38,3
+./traindata/JPEGImages/frame3607_to_frame3652_label_000041_0.jpg 206,150,309,200,0 281,164,306,190,3
+./traindata/JPEGImages/frame3607_to_frame3652_label_000041_1.jpg 60,42,90,56,0 80,46,88,54,3
+./traindata/JPEGImages/frame3607_to_frame3652_label_000042_0.jpg 62,33,93,44,0 83,36,91,43,3
+./traindata/JPEGImages/frame3607_to_frame3652_label_000043_0.jpg 70,42,105,56,0 94,45,103,54,3
+./traindata/JPEGImages/frame3607_to_frame3652_label_000044_0.jpg 78,48,117,64,0 105,52,115,63,3
+./traindata/JPEGImages/frame3607_to_frame3652_label_000045_0.jpg 92,48,138,64,0 124,51,136,63,3
+./traindata/JPEGImages/frame3607_to_frame3652_label_000046_0.jpg 90,45,135,60,0 121,48,133,60,3
+./traindata/JPEGImages/frame4494_to_frame4558_label_000021_0.jpg 36,21,54,28,0 36,21,42,27,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000021_1.jpg 40,21,60,28,0 40,21,46,28,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000022_1.jpg 42,24,63,32,0 42,24,49,32,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000023_0.jpg 24,18,36,24,0 24,18,29,24,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000023_1.jpg 48,21,72,28,0 48,21,56,28,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000024_0.jpg 12,18,18,24,0 12,18,17,24,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000024_1.jpg 50,24,75,32,0 50,24,58,32,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000025_0.jpg 32,18,48,24,0 32,18,36,24,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000025_1.jpg 54,27,81,36,0 54,27,63,36,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000026_0.jpg 38,18,57,24,0 39,18,44,24,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000026_1.jpg 60,33,90,44,0 60,33,69,43,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000027_0.jpg 36,18,54,24,0 36,18,42,24,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000027_1.jpg 68,33,102,44,0 69,33,80,43,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000028_0.jpg 36,18,54,24,0 36,18,42,24,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000028_1.jpg 74,33,111,44,0 75,33,85,43,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000029_0.jpg 42,24,63,32,0 42,24,50,32,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000029_1.jpg 80,33,120,44,0 80,33,91,44,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000030_0.jpg 42,24,63,32,0 42,24,50,32,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000030_1.jpg 86,42,129,56,0 86,42,98,55,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000031_0.jpg 44,24,66,32,0 44,24,51,31,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000031_1.jpg 92,42,138,56,0 92,42,105,56,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000032_0.jpg 44,21,66,28,0 44,21,51,28,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000032_1.jpg 106,54,159,72,0 107,54,122,70,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000033_0.jpg 42,24,63,32,0 42,24,50,32,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000033_1.jpg 122,57,183,76,0 122,57,139,74,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000034_0.jpg 46,24,69,32,0 46,24,53,31,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000034_1.jpg 142,75,213,100,0 142,76,161,98,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000035_0.jpg 44,24,66,32,0 44,24,52,32,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000035_1.jpg 168,78,252,104,0 169,78,192,103,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000036_0.jpg 42,24,63,32,0 42,25,48,32,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000036_1.jpg 204,108,306,144,0 202,111,231,140,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000041_0.jpg 62,30,93,40,0 63,30,72,40,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000042_0.jpg 60,27,90,36,0 60,27,69,36,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000043_0.jpg 58,30,87,40,0 58,31,67,40,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000044_0.jpg 60,24,90,32,0 60,24,69,32,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000045_0.jpg 56,27,84,36,0 56,27,65,36,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000046_0.jpg 58,27,87,36,0 58,27,68,36,1
+./traindata/JPEGImages/frame4494_to_frame4558_label_000048_0.jpg 60,36,90,48,0 80,37,90,47,3
+./traindata/JPEGImages/frame4494_to_frame4558_label_000049_0.jpg 60,30,90,40,0 79,30,90,40,3
+./traindata/JPEGImages/frame4494_to_frame4558_label_000050_0.jpg 60,33,90,44,0 79,33,90,44,3
+./traindata/JPEGImages/frame4494_to_frame4558_label_000051_0.jpg 60,30,90,40,0 80,31,89,40,3
+./traindata/JPEGImages/frame4494_to_frame4558_label_000052_0.jpg 60,36,90,48,0 81,37,90,47,3
+./traindata/JPEGImages/frame4494_to_frame4558_label_000053_0.jpg 60,36,90,48,0 80,37,90,47,3
+./traindata/JPEGImages/frame4494_to_frame4558_label_000054_0.jpg 60,33,90,44,0 80,33,90,43,3
+./traindata/JPEGImages/frame4494_to_frame4558_label_000055_0.jpg 60,33,90,44,0 80,34,90,44,3
+./traindata/JPEGImages/frame4494_to_frame4558_label_000056_0.jpg 62,36,93,48,0 83,37,93,47,3
+./traindata/JPEGImages/frame4494_to_frame4558_label_000057_0.jpg 64,33,96,44,0 85,34,96,44,3
+./traindata/JPEGImages/frame4494_to_frame4558_label_000058_0.jpg 68,36,102,48,0 90,37,101,47,3
+./traindata/JPEGImages/frame4494_to_frame4558_label_000059_0.jpg 66,39,99,52,0 88,40,99,51,3
+./traindata/JPEGImages/frame4494_to_frame4558_label_000060_0.jpg 72,42,108,56,0 96,44,107,55,3
+./traindata/JPEGImages/frame4494_to_frame4558_label_000061_0.jpg 76,42,114,56,0 101,44,113,55,3
+./traindata/JPEGImages/frame4494_to_frame4558_label_000062_0.jpg 80,45,120,60,0 106,47,120,59,3
+./traindata/JPEGImages/frame4494_to_frame4558_label_000063_0.jpg 90,48,135,64,0 120,50,134,63,3
+./traindata/JPEGImages/frame4494_to_frame4558_label_000064_0.jpg 102,54,153,72,0 136,56,152,71,3
+./traindata/JPEGImages/frame4494_to_frame4558_label_000065_0.jpg 116,60,174,80,0 157,62,173,80,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000033_0.jpg 46,33,69,44,0 59,34,68,43,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000034_0.jpg 48,27,72,36,0 62,28,71,36,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000035_0.jpg 50,30,75,40,0 65,32,73,40,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000036_0.jpg 56,36,84,48,0 74,38,83,46,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000037_0.jpg 60,48,90,64,0 79,51,89,60,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000038_0.jpg 74,51,111,68,0 99,54,110,66,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000039_0.jpg 92,57,138,76,0 124,60,136,73,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000040_0.jpg 104,75,156,100,0 139,80,155,94,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000041_0.jpg 130,90,195,120,0 175,96,193,116,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000042_0.jpg 198,135,297,180,0 270,151,293,178,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000042_1.jpg 60,36,90,48,0 79,37,88,45,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000043_0.jpg 68,36,102,48,0 80,37,90,46,2
+./traindata/JPEGImages/frame4587_to_frame4821_label_000045_0.jpg 84,51,126,68,0 98,53,112,67,2
+./traindata/JPEGImages/frame4587_to_frame4821_label_000046_0.jpg 110,63,165,84,0 129,66,145,81,2
+./traindata/JPEGImages/frame4587_to_frame4821_label_000047_0.jpg 126,81,189,108,0 151,88,168,104,2
+./traindata/JPEGImages/frame4587_to_frame4821_label_000048_0.jpg 162,129,243,172,0 193,141,214,164,2
+./traindata/JPEGImages/frame4587_to_frame4821_label_000049_0.jpg 238,130,357,195,0 285,153,313,185,2
+./traindata/JPEGImages/frame4587_to_frame4821_label_000083_0.jpg 188,132,282,176,0 194,142,217,167,1
+./traindata/JPEGImages/frame4587_to_frame4821_label_000084_0.jpg 234,128,351,185,0 240,146,270,177,1
+./traindata/JPEGImages/frame4587_to_frame4821_label_000085_0.jpg 288,1,432,62,0 293,16,330,56,1
+./traindata/JPEGImages/frame4587_to_frame4821_label_000153_0.jpg 62,36,93,48,0 82,38,93,46,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000154_0.jpg 56,39,84,52,0 73,41,83,50,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000155_0.jpg 58,36,87,48,0 75,37,85,45,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000156_0.jpg 58,42,87,56,0 77,45,86,53,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000157_0.jpg 56,42,84,56,0 74,44,82,51,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000158_0.jpg 56,39,84,52,0 73,41,82,51,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000159_0.jpg 58,39,87,52,0 76,40,86,49,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000160_0.jpg 60,39,90,52,0 77,41,88,50,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000161_0.jpg 60,42,90,56,0 79,44,89,54,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000162_0.jpg 62,42,93,56,0 81,43,92,54,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000163_0.jpg 58,42,87,56,0 76,43,87,54,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000164_0.jpg 62,48,93,64,0 81,49,93,62,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000165_0.jpg 66,48,99,64,0 87,50,99,63,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000166_0.jpg 68,51,102,68,0 89,52,101,66,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000167_0.jpg 78,42,117,56,0 103,43,116,55,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000168_0.jpg 80,60,120,80,0 107,63,120,77,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000169_0.jpg 92,66,138,88,0 122,70,137,85,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000170_0.jpg 100,63,150,84,0 134,66,149,83,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000171_0.jpg 120,75,180,100,0 159,78,178,96,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000172_0.jpg 146,96,219,128,0 197,102,217,124,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000173_0.jpg 174,123,261,164,0 234,132,259,159,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000174_0.jpg 230,171,345,228,0 310,189,340,222,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000175_0.jpg 308,1,462,38,0 414,2,454,37,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000187_0.jpg 40,33,60,44,0 52,34,60,42,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000188_0.jpg 46,30,69,40,0 60,32,67,39,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000189_0.jpg 46,30,69,40,0 61,32,68,39,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000190_0.jpg 52,39,78,52,0 68,42,75,48,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000191_0.jpg 118,66,177,88,0 157,70,175,86,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000191_1.jpg 54,45,81,60,0 70,47,80,57,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000192_0.jpg 150,84,225,112,0 201,92,221,111,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000192_1.jpg 64,36,96,48,0 84,37,95,47,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000193_0.jpg 212,165,318,220,0 286,183,313,212,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000193_1.jpg 74,39,111,52,0 98,40,111,52,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000194_0.jpg 78,45,117,60,0 104,46,116,59,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000195_0.jpg 90,63,135,84,0 120,67,134,81,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000196_0.jpg 106,78,159,104,0 141,84,158,102,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000197_0.jpg 156,111,234,148,0 210,123,232,144,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000198_0.jpg 186,144,279,192,0 251,162,276,187,3
+./traindata/JPEGImages/frame4587_to_frame4821_label_000208_0.jpg 76,36,114,48,0 93,37,104,47,5 105,37,114,47,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000209_0.jpg 82,42,123,56,0 101,44,112,53,5 113,43,122,54,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000210_0.jpg 90,42,135,56,0 112,44,123,54,5 123,43,134,55,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000211_0.jpg 96,45,144,60,0 119,47,132,58,5 133,46,143,60,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000212_0.jpg 108,51,162,68,0 134,53,147,66,5 148,52,161,68,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000213_0.jpg 120,51,180,68,0 149,53,163,66,5 165,52,179,69,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000214_0.jpg 132,66,198,88,0 164,69,180,82,5 183,68,196,86,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000215_0.jpg 138,66,207,88,0 172,70,189,83,5 190,69,206,87,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000216_0.jpg 160,75,240,100,0 199,80,218,96,5 219,81,237,99,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000217_0.jpg 166,81,249,108,0 207,87,227,104,5 228,87,248,107,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000218_0.jpg 182,99,273,132,0 228,106,249,127,5 252,108,272,128,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000219_0.jpg 206,120,309,160,0 259,129,283,152,5 285,132,308,155,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000220_0.jpg 236,144,354,192,0 296,158,321,183,5 325,159,350,186,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000221_0.jpg 266,156,399,208,0 333,175,364,201,5 369,177,396,205,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000222_0.jpg 318,122,477,176,0 400,141,432,174,5 439,141,471,176,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000223_0.jpg 364,1,546,68,0 456,27,496,67,5 505,29,542,67,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000224_0.jpg 74,30,111,40,0 91,31,101,39,5 102,31,111,40,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000225_0.jpg 78,36,117,48,0 97,37,106,47,5 107,37,117,47,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000226_0.jpg 78,36,117,48,0 97,37,107,48,5 108,37,117,49,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000227_0.jpg 84,36,126,48,0 103,37,115,48,5 116,37,125,49,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000228_0.jpg 90,36,135,48,0 112,37,124,48,5 125,37,135,48,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000229_0.jpg 98,45,147,60,0 122,46,134,59,5 135,46,146,59,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000230_0.jpg 104,51,156,68,0 129,52,141,64,5 142,52,153,65,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000231_0.jpg 106,45,159,60,0 131,46,144,59,5 145,46,158,59,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000232_0.jpg 114,51,171,68,0 141,53,155,65,5 156,52,169,68,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000233_0.jpg 120,54,180,72,0 148,56,163,71,5 165,55,179,73,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000234_0.jpg 134,60,201,80,0 166,61,183,78,5 184,61,198,79,6
+./traindata/JPEGImages/frame4587_to_frame4821_label_000235_0.jpg 154,84,231,112,0 191,88,210,104,5 211,87,229,104,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000001_0.jpg 168,69,252,92,0 168,70,187,92,1
+./traindata/JPEGImages/frame4858_to_frame4942_label_000002_0.jpg 192,60,288,80,0 193,60,213,81,1
+./traindata/JPEGImages/frame4858_to_frame4942_label_000002_1.jpg 66,18,99,24,0
+./traindata/JPEGImages/frame4858_to_frame4942_label_000003_0.jpg 222,75,333,100,0 223,76,245,99,1
+./traindata/JPEGImages/frame4858_to_frame4942_label_000003_1.jpg 68,21,102,28,0 75,21,81,28,2
+./traindata/JPEGImages/frame4858_to_frame4942_label_000006_0.jpg 346,34,519,78,0 350,35,385,76,1
+./traindata/JPEGImages/frame4858_to_frame4942_label_000006_1.jpg 68,21,102,28,0 75,21,82,28,2
+./traindata/JPEGImages/frame4858_to_frame4942_label_000009_0.jpg 80,24,120,32,0 90,25,96,32,2
+./traindata/JPEGImages/frame4858_to_frame4942_label_000012_0.jpg 88,24,132,32,0 97,25,105,32,2
+./traindata/JPEGImages/frame4858_to_frame4942_label_000015_0.jpg 106,33,159,44,0 118,34,126,44,2
+./traindata/JPEGImages/frame4858_to_frame4942_label_000018_0.jpg 136,45,204,60,0 151,47,161,59,2
+./traindata/JPEGImages/frame4858_to_frame4942_label_000021_0.jpg 190,60,285,80,0 209,63,225,80,2
+./traindata/JPEGImages/frame4858_to_frame4942_label_000021_1.jpg 62,18,93,24,0 68,19,74,24,2
+./traindata/JPEGImages/frame4858_to_frame4942_label_000024_0.jpg 444,21,666,72,0 492,29,530,69,2
+./traindata/JPEGImages/frame4858_to_frame4942_label_000024_1.jpg 76,21,114,28,0 84,21,91,28,2
+./traindata/JPEGImages/frame4858_to_frame4942_label_000027_0.jpg 96,30,144,40,0 107,32,115,40,2
+./traindata/JPEGImages/frame4858_to_frame4942_label_000031_0.jpg 158,48,237,64,0 177,50,189,64,2
+./traindata/JPEGImages/frame4858_to_frame4942_label_000068_0.jpg 90,30,135,40,0 119,31,125,39,4 127,30,135,39,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000069_0.jpg 98,33,147,44,0 128,34,137,43,4 138,33,147,42,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000070_0.jpg 112,33,168,44,0 146,33,156,44,4 157,33,168,42,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000071_0.jpg 128,42,192,56,0 168,43,178,54,4 181,43,191,53,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000072_0.jpg 144,48,216,64,0 188,49,201,62,4 202,48,215,60,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000073_0.jpg 160,54,240,72,0 211,56,224,69,4 226,54,239,67,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000073_1.jpg 60,18,90,24,0 78,18,83,24,4 83,18,89,24,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000074_0.jpg 186,66,279,88,0 244,69,258,84,4 261,67,278,84,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000074_1.jpg 64,18,96,24,0 83,18,89,24,4 90,18,96,24,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000075_0.jpg 222,81,333,108,0 291,82,308,101,4 313,82,331,101,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000075_1.jpg 62,18,93,24,0 81,18,87,24,4 87,18,93,24,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000076_0.jpg 270,90,405,120,0 354,92,375,114,4 380,92,401,112,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000076_1.jpg 68,21,102,28,0 88,21,94,27,4 95,21,102,28,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000077_0.jpg 346,114,519,152,0 453,117,477,145,4 486,116,516,144,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000077_1.jpg 72,21,108,28,0 94,21,100,28,4 101,21,108,28,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000079_0.jpg 84,27,126,36,0 110,28,118,35,4 119,27,126,35,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000080_0.jpg 92,27,138,36,0 120,27,129,36,4 130,27,138,36,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000081_0.jpg 102,30,153,40,0 133,30,142,39,4 143,30,153,39,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000082_0.jpg 114,30,171,40,0 148,30,158,40,4 159,30,170,40,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000083_0.jpg 124,39,186,52,0 162,40,173,51,4 175,40,185,51,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000084_0.jpg 144,45,216,60,0 187,45,201,59,4 202,46,215,58,6
+./traindata/JPEGImages/frame4858_to_frame4942_label_000085_0.jpg 178,57,267,76,0 233,59,248,74,4 251,59,266,74,6
+./traindata/JPEGImages/frame4973_to_frame5028_label_000044_0.jpg 120,33,180,44,0 155,34,164,42,4 166,34,176,42,6
+./traindata/JPEGImages/frame4973_to_frame5028_label_000045_0.jpg 128,39,192,52,0 165,40,175,49,4 178,40,188,49,6
+./traindata/JPEGImages/frame4973_to_frame5028_label_000046_0.jpg 142,42,213,56,0 186,44,194,53,4 200,44,209,53,6
+./traindata/JPEGImages/frame4973_to_frame5028_label_000047_0.jpg 160,57,240,76,0 210,60,220,72,4 225,62,237,72,6
+./traindata/JPEGImages/frame4973_to_frame5028_label_000048_0.jpg 190,69,285,92,0 250,74,262,87,4 268,75,280,86,6
+./traindata/JPEGImages/frame4973_to_frame5028_label_000049_0.jpg 250,99,375,132,0 329,110,345,126,4 353,111,370,126,6
+./traindata/JPEGImages/frame4973_to_frame5028_label_000052_0.jpg 66,24,99,32,0 86,25,92,31,4 93,25,99,31,6
+./traindata/JPEGImages/frame4973_to_frame5028_label_000053_0.jpg 74,33,111,44,0 95,34,102,42,4 103,34,109,43,6
+./traindata/JPEGImages/frame4973_to_frame5028_label_000054_0.jpg 80,30,120,40,0 104,31,111,39,4 112,31,119,38,6
+./traindata/JPEGImages/frame4973_to_frame5028_label_000055_0.jpg 84,36,126,48,0 109,38,116,46,4 117,38,124,47,6
+./traindata/JPEGImages/frame4973_to_frame5028_label_000056_0.jpg 96,36,144,48,0 125,37,133,46,4 134,38,142,46,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000059_0.jpg 80,24,120,32,0 80,25,87,32,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000060_0.jpg 84,27,126,36,0 84,29,91,35,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000061_0.jpg 46,18,69,24,0 46,19,51,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000061_1.jpg 86,24,129,32,0 86,26,93,32,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000062_0.jpg 90,30,135,40,0 90,32,97,39,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000063_1.jpg 96,30,144,40,0 96,32,105,39,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000064_1.jpg 104,33,156,44,0 105,35,114,43,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000065_1.jpg 108,30,162,40,0 108,31,116,40,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000066_0.jpg 52,18,78,24,0 52,18,58,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000066_1.jpg 114,33,171,44,0 115,35,124,44,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000067_0.jpg 52,18,78,24,0 52,19,57,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000067_1.jpg 120,42,180,56,0 120,45,131,55,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000068_0.jpg 134,42,201,56,0 134,45,146,55,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000068_1.jpg 54,18,81,24,0 54,19,60,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000069_0.jpg 142,45,213,60,0 142,47,154,60,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000069_1.jpg 60,21,90,28,0 62,21,69,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000070_0.jpg 152,45,228,60,0 152,46,165,58,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000070_1.jpg 58,18,87,24,0 58,19,64,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000071_1.jpg 162,42,243,56,0 163,44,176,56,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000072_0.jpg 58,24,87,32,0 58,25,64,31,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000072_1.jpg 178,66,267,88,0 179,73,192,86,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000073_0.jpg 62,21,93,28,0 62,22,68,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000073_1.jpg 186,63,279,84,0 186,68,201,82,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000074_0.jpg 202,69,303,92,0 202,74,217,91,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000074_1.jpg 64,24,96,32,0 65,26,71,31,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000075_0.jpg 226,81,339,108,0 228,87,246,107,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000075_1.jpg 68,27,102,36,0 69,28,75,35,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000076_0.jpg 66,24,99,32,0 66,25,72,32,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000076_1.jpg 238,81,357,108,0 238,84,258,105,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000077_0.jpg 70,24,105,32,0 70,25,77,32,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000077_1.jpg 250,87,375,116,0 251,92,269,114,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000078_0.jpg 66,21,99,28,0 66,21,72,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000078_1.jpg 262,90,393,120,0 263,96,284,120,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000079_0.jpg 68,21,102,28,0 68,21,74,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000079_1.jpg 276,96,414,128,0 277,104,298,128,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000080_0.jpg 70,21,105,28,0 70,21,77,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000080_1.jpg 282,93,423,124,0 281,99,303,122,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000081_0.jpg 70,21,105,28,0 70,21,76,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000081_1.jpg 290,111,435,148,0 292,121,315,147,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000082_0.jpg 68,21,102,28,0 68,21,73,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000082_1.jpg 290,111,435,148,0 290,121,315,147,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000083_0.jpg 70,21,105,28,0 70,22,77,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000083_1.jpg 292,108,438,144,0 293,118,314,140,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000084_0.jpg 70,21,105,28,0 70,21,76,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000084_1.jpg 292,111,438,148,0 292,119,316,145,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000085_0.jpg 70,21,105,28,0 70,22,76,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000085_1.jpg 284,114,426,152,0 285,126,307,151,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000086_0.jpg 72,21,108,28,0 72,21,79,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000086_1.jpg 284,114,426,152,0 285,125,308,151,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000087_0.jpg 70,21,105,28,0 70,21,78,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000087_1.jpg 288,111,432,148,0 289,120,311,147,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000088_0.jpg 70,21,105,28,0 70,21,77,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000088_1.jpg 288,111,432,148,0 288,120,311,146,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000089_0.jpg 70,18,105,24,0 71,18,76,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000089_1.jpg 288,117,432,156,0 290,128,311,153,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000090_1.jpg 290,111,435,148,0 291,122,314,146,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000091_0.jpg 70,21,105,28,0 71,22,77,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000091_1.jpg 288,120,432,160,0 289,132,311,156,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000092_0.jpg 70,21,105,28,0 70,21,77,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000092_1.jpg 290,114,435,152,0 291,124,315,150,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000093_0.jpg 68,18,102,24,0 68,19,74,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000093_1.jpg 286,114,429,152,0 287,125,309,149,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000094_0.jpg 70,18,105,24,0 70,18,77,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000094_1.jpg 288,117,432,156,0 289,127,312,154,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000095_0.jpg 68,18,102,24,0 68,18,74,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000095_1.jpg 286,120,429,160,0 286,132,309,153,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000096_0.jpg 70,21,105,28,0 70,23,76,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000096_1.jpg 288,111,432,148,0 290,123,313,146,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000097_0.jpg 72,21,108,28,0 73,23,78,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000097_1.jpg 288,111,432,148,0 289,121,312,144,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000098_0.jpg 70,21,105,28,0 70,22,76,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000098_1.jpg 290,108,435,144,0 291,117,315,143,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000099_0.jpg 68,18,102,24,0 68,18,74,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000099_1.jpg 290,111,435,148,0 291,121,313,146,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000100_0.jpg 70,18,105,24,0 70,19,75,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000100_1.jpg 290,105,435,140,0 290,113,314,139,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000101_0.jpg 70,21,105,28,0 70,23,76,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000101_1.jpg 292,108,438,144,0 294,117,317,142,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000102_1.jpg 286,105,429,140,0 287,113,311,138,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000104_0.jpg 68,21,102,28,0 68,22,74,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000104_1.jpg 288,96,432,128,0 290,102,312,127,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000105_0.jpg 68,18,102,24,0 68,18,73,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000105_1.jpg 290,105,435,140,0 292,113,315,140,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000106_0.jpg 70,21,105,28,0 70,23,75,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000106_1.jpg 290,99,435,132,0 292,107,315,132,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000107_0.jpg 70,21,105,28,0 70,22,75,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000107_1.jpg 290,105,435,140,0 291,113,315,140,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000108_0.jpg 70,18,105,24,0 70,18,75,23,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000108_1.jpg 284,102,426,136,0 285,111,308,137,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000109_0.jpg 72,21,108,28,0 72,22,78,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000109_1.jpg 286,102,429,136,0 286,109,309,134,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000110_0.jpg 68,21,102,28,0 68,23,73,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000110_1.jpg 286,102,429,136,0 287,110,308,134,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000111_0.jpg 68,21,102,28,0 68,22,73,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000111_1.jpg 288,102,432,136,0 290,110,312,135,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000112_0.jpg 70,21,105,28,0 70,22,77,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000112_1.jpg 286,102,429,136,0 288,111,310,134,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000113_0.jpg 68,21,102,28,0 68,23,73,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000113_1.jpg 286,102,429,136,0 286,110,310,135,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000114_0.jpg 68,18,102,24,0 68,18,74,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000114_1.jpg 284,96,426,128,0 284,103,306,128,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000115_0.jpg 68,18,102,24,0 68,18,74,23,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000115_1.jpg 288,102,432,136,0 289,110,311,136,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000116_0.jpg 70,21,105,28,0 71,23,77,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000116_1.jpg 286,99,429,132,0 287,108,308,131,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000117_0.jpg 70,21,105,28,0 70,23,75,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000117_1.jpg 288,102,432,136,0 289,110,313,135,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000118_0.jpg 70,18,105,24,0 70,18,76,23,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000118_1.jpg 290,105,435,140,0 292,113,316,139,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000119_0.jpg 68,18,102,24,0 68,18,74,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000119_1.jpg 288,105,432,140,0 289,113,313,139,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000120_0.jpg 68,18,102,24,0 68,19,74,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000120_1.jpg 290,102,435,136,0 291,110,314,134,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000121_0.jpg 68,18,102,24,0 68,19,74,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000121_1.jpg 290,93,435,124,0 291,98,314,125,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000122_0.jpg 68,21,102,28,0 68,23,74,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000122_1.jpg 290,105,435,140,0 292,114,314,139,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000123_0.jpg 70,18,105,24,0 70,18,76,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000123_1.jpg 288,102,432,136,0 289,110,313,135,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000124_0.jpg 68,18,102,24,0 68,18,73,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000124_1.jpg 288,99,432,132,0 289,108,312,130,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000125_0.jpg 70,18,105,24,0 70,19,76,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000125_1.jpg 286,102,429,136,0 286,109,309,133,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000126_0.jpg 70,18,105,24,0 70,19,76,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000126_1.jpg 284,108,426,144,0 286,116,307,140,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000127_0.jpg 68,21,102,28,0 68,23,74,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000127_1.jpg 286,99,429,132,0 287,106,308,132,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000128_0.jpg 68,18,102,24,0 68,18,74,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000128_1.jpg 288,102,432,136,0 291,112,311,136,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000129_0.jpg 68,18,102,24,0 68,19,74,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000129_1.jpg 290,96,435,128,0 292,103,314,128,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000130_0.jpg 68,18,102,24,0 68,18,74,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000130_1.jpg 288,105,432,140,0 288,115,311,140,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000131_0.jpg 68,18,102,24,0 68,19,74,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000131_1.jpg 292,111,438,148,0 292,121,316,148,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000132_0.jpg 70,18,105,24,0 70,18,75,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000132_1.jpg 288,99,432,132,0 290,107,311,132,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000133_0.jpg 70,18,105,24,0 70,18,76,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000133_1.jpg 286,108,429,144,0 286,116,308,143,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000134_0.jpg 68,18,102,24,0 68,18,73,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000134_1.jpg 286,96,429,128,0 287,104,308,129,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000135_0.jpg 70,18,105,24,0 71,18,77,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000135_1.jpg 282,99,423,132,0 283,107,305,131,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000136_0.jpg 70,18,105,24,0 70,19,77,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000136_1.jpg 282,102,423,136,0 282,111,303,134,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000137_0.jpg 68,21,102,28,0 68,23,73,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000137_1.jpg 284,105,426,140,0 285,113,306,139,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000138_0.jpg 68,18,102,24,0 68,18,74,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000138_1.jpg 292,102,438,136,0 294,108,316,135,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000139_0.jpg 70,24,105,32,0 70,25,76,32,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000139_1.jpg 290,93,435,124,0 291,98,315,124,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000140_0.jpg 70,21,105,28,0 70,23,77,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000140_1.jpg 290,96,435,128,0 292,105,313,127,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000141_0.jpg 70,24,105,32,0 70,26,76,32,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000141_1.jpg 288,93,432,124,0 289,100,311,124,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000142_0.jpg 68,18,102,24,0 68,19,75,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000142_1.jpg 288,96,432,128,0 289,104,310,127,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000143_0.jpg 70,21,105,28,0 70,22,76,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000143_1.jpg 286,99,429,132,0 287,106,309,132,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000144_0.jpg 70,21,105,28,0 70,23,76,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000144_1.jpg 292,105,438,140,0 296,115,318,139,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000145_0.jpg 70,18,105,24,0 70,19,77,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000145_1.jpg 286,105,429,140,0 287,113,309,138,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000146_0.jpg 72,18,108,24,0 72,19,78,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000146_1.jpg 292,93,438,124,0 293,100,315,124,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000147_0.jpg 68,24,102,32,0 68,26,74,32,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000147_1.jpg 288,93,432,124,0 289,99,311,124,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000148_0.jpg 70,21,105,28,0 70,22,77,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000148_1.jpg 294,99,441,132,0 296,108,317,131,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000149_0.jpg 68,21,102,28,0 68,22,74,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000149_1.jpg 290,102,435,136,0 292,111,313,136,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000150_0.jpg 70,18,105,24,0 70,19,77,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000150_1.jpg 294,96,441,128,0 298,103,318,127,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000151_0.jpg 68,18,102,24,0 68,19,73,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000151_1.jpg 290,93,435,124,0 292,99,316,124,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000152_0.jpg 70,18,105,24,0 70,18,75,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000152_1.jpg 284,99,426,132,0 285,108,307,130,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000153_0.jpg 70,21,105,28,0 70,22,75,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000153_1.jpg 286,93,429,124,0 286,100,309,124,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000154_0.jpg 70,21,105,28,0 70,22,75,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000154_1.jpg 290,99,435,132,0 292,107,313,130,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000155_0.jpg 70,18,105,24,0 70,19,75,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000155_1.jpg 286,96,429,128,0 288,102,309,127,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000156_0.jpg 70,18,105,24,0 70,18,75,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000156_1.jpg 290,96,435,128,0 292,104,314,126,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000157_0.jpg 68,18,102,24,0 68,18,73,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000157_1.jpg 288,96,432,128,0 289,104,312,128,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000158_0.jpg 68,18,102,24,0 68,19,73,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000158_1.jpg 290,99,435,132,0 292,106,313,131,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000159_0.jpg 70,18,105,24,0 70,18,76,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000159_1.jpg 290,96,435,128,0 292,103,314,127,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000160_0.jpg 72,18,108,24,0 73,18,79,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000160_1.jpg 288,96,432,128,0 289,103,312,126,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000161_0.jpg 68,18,102,24,0 68,18,74,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000161_1.jpg 292,93,438,124,0 293,100,317,125,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000162_0.jpg 68,18,102,24,0 68,19,74,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000162_1.jpg 292,99,438,132,0 294,108,317,131,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000163_0.jpg 68,18,102,24,0 68,19,73,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000163_1.jpg 294,93,441,124,0 295,100,320,123,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000164_0.jpg 68,18,102,24,0 68,19,74,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000164_1.jpg 290,99,435,132,0 291,107,313,129,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000165_0.jpg 68,18,102,24,0 68,18,74,25,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000165_1.jpg 290,96,435,128,0 290,104,312,128,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000166_0.jpg 70,21,105,28,0 70,22,77,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000166_1.jpg 290,90,435,120,0 291,96,312,120,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000167_0.jpg 70,18,105,24,0 70,19,76,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000167_1.jpg 284,90,426,120,0 285,94,307,119,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000168_0.jpg 70,18,105,24,0 70,18,77,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000168_1.jpg 284,99,426,132,0 285,108,307,130,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000169_0.jpg 70,18,105,24,0 70,19,77,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000169_1.jpg 284,93,426,124,0 284,100,307,124,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000170_0.jpg 70,18,105,24,0 70,19,76,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000170_1.jpg 286,96,429,128,0 288,103,309,127,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000171_0.jpg 70,18,105,24,0 70,18,77,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000171_1.jpg 286,93,429,124,0 287,99,310,124,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000172_0.jpg 70,21,105,28,0 70,22,77,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000172_1.jpg 284,99,426,132,0 285,107,307,130,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000173_0.jpg 70,21,105,28,0 70,22,77,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000173_1.jpg 284,96,426,128,0 285,102,307,126,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000174_0.jpg 70,21,105,28,0 70,22,77,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000174_1.jpg 286,96,429,128,0 288,103,309,126,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000175_0.jpg 68,21,102,28,0 68,22,75,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000175_1.jpg 284,90,426,120,0 285,95,308,119,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000176_0.jpg 70,21,105,28,0 70,22,76,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000176_1.jpg 284,96,426,128,0 285,104,306,126,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000177_0.jpg 70,21,105,28,0 70,22,76,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000177_1.jpg 284,96,426,128,0 284,104,305,126,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000178_0.jpg 72,21,108,28,0 72,22,78,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000178_1.jpg 288,93,432,124,0 290,100,310,121,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000179_0.jpg 72,18,108,24,0 72,19,79,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000179_1.jpg 282,90,423,120,0 282,97,304,120,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000180_0.jpg 68,24,102,32,0 68,26,74,32,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000180_1.jpg 286,93,429,124,0 288,100,308,124,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000181_0.jpg 72,18,108,24,0 72,18,78,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000181_1.jpg 286,93,429,124,0 286,98,307,123,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000182_0.jpg 70,18,105,24,0 70,18,76,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000182_1.jpg 288,93,432,124,0 290,100,310,122,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000183_0.jpg 70,21,105,28,0 70,21,77,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000183_1.jpg 286,90,429,120,0 287,96,309,119,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000184_0.jpg 72,21,108,28,0 72,23,78,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000184_1.jpg 288,90,432,120,0 290,96,311,119,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000185_0.jpg 70,21,105,28,0 70,22,75,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000185_1.jpg 286,90,429,120,0 288,95,310,119,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000186_0.jpg 68,18,102,24,0 68,18,74,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000186_1.jpg 286,105,429,140,0 288,116,309,138,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000187_0.jpg 70,18,105,24,0 70,19,77,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000187_1.jpg 280,108,420,144,0 281,118,303,143,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000188_0.jpg 68,18,102,24,0 68,18,73,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000188_1.jpg 284,96,426,128,0 285,105,305,128,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000189_0.jpg 72,18,108,24,0 72,18,78,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000189_1.jpg 284,96,426,128,0 285,104,306,126,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000190_0.jpg 70,21,105,28,0 71,22,77,27,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000190_1.jpg 288,99,432,132,0 290,106,311,130,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000191_0.jpg 68,18,102,24,0 68,18,74,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000191_1.jpg 284,93,426,124,0 285,99,307,124,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000192_0.jpg 66,21,99,28,0 66,23,72,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000192_1.jpg 284,102,426,136,0 285,112,307,135,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000193_0.jpg 70,21,105,28,0 70,21,76,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000193_1.jpg 288,105,432,140,0 289,114,311,140,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000194_0.jpg 68,21,102,28,0 68,22,74,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000194_1.jpg 292,105,438,140,0 295,113,316,138,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000195_0.jpg 70,18,105,24,0 70,18,76,24,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000195_1.jpg 286,99,429,132,0 288,108,309,133,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000196_0.jpg 70,21,105,28,0 70,23,77,28,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000196_1.jpg 292,99,438,132,0 294,107,314,131,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000197_0.jpg 70,24,105,32,0 70,25,76,32,1
+./traindata/JPEGImages/frame5052_to_frame5279_label_000197_1.jpg 296,96,444,128,0
+./traindata/JPEGImages/frame5052_to_frame5279_label_000198_0.jpg 292,117,438,156,0 364,122,394,149,4 400,122,432,151,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000198_1.jpg 72,18,108,24,0 94,18,100,24,4 101,18,108,24,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000199_0.jpg 288,108,432,144,0 364,112,391,139,4 398,114,427,139,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000199_1.jpg 72,21,108,28,0 93,21,100,27,4 101,21,107,28,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000200_0.jpg 284,90,426,120,0 368,91,393,118,4 396,90,422,114,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000200_1.jpg 72,18,108,24,0 94,18,100,24,4 101,18,107,24,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000201_0.jpg 286,96,429,128,0 373,99,394,125,4 400,98,425,121,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000201_1.jpg 72,21,108,28,0 93,21,100,27,4 101,21,108,27,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000202_0.jpg 286,99,429,132,0 371,101,395,129,4 399,101,427,128,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000202_1.jpg 72,21,108,28,0 93,22,100,27,4 101,21,108,28,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000203_0.jpg 288,102,432,136,0 374,104,396,132,4 402,106,426,131,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000203_1.jpg 74,21,111,28,0 95,22,102,27,4 103,21,111,28,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000204_0.jpg 286,102,429,136,0 370,108,391,135,4 398,109,423,133,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000204_1.jpg 76,21,114,28,0 97,21,105,27,4 106,21,113,28,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000205_0.jpg 290,99,435,132,0 375,104,398,130,4 402,104,429,129,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000205_1.jpg 70,18,105,24,0 89,18,97,24,4 98,18,105,24,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000206_0.jpg 288,108,432,144,0 371,114,394,137,4 404,114,427,137,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000206_1.jpg 72,18,108,24,0 93,18,100,24,4 101,18,108,24,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000207_0.jpg 284,105,426,140,0 368,108,394,134,4 398,107,423,133,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000207_1.jpg 74,21,111,28,0 95,21,102,27,4 103,21,110,28,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000208_0.jpg 286,102,429,136,0 369,103,396,131,4 401,103,425,133,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000208_1.jpg 72,18,108,24,0 94,18,101,23,4 102,18,108,23,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000209_0.jpg 286,102,429,136,0 368,102,394,131,4 402,104,427,130,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000209_1.jpg 68,18,102,24,0 89,18,95,24,4 95,18,102,24,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000210_0.jpg 288,96,432,128,0 369,97,398,122,4 404,99,429,123,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000210_1.jpg 72,18,108,24,0 94,18,100,23,4 101,18,107,23,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000211_0.jpg 296,90,444,120,0 379,91,409,118,4 417,90,442,114,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000211_1.jpg 72,21,108,28,0 93,21,100,27,4 100,21,108,27,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000212_0.jpg 312,96,468,128,0 403,97,429,125,4 435,97,465,123,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000212_1.jpg 72,24,108,32,0 95,25,101,31,4 101,25,108,31,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000213_0.jpg 332,120,498,160,0 430,122,458,157,4 466,123,496,156,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000213_1.jpg 74,18,111,24,0 97,18,103,24,4 104,18,110,24,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000214_0.jpg 364,117,546,156,0 471,121,502,151,4 512,120,541,152,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000214_1.jpg 74,18,111,24,0 96,18,103,24,4 104,18,110,24,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000215_0.jpg 292,108,500,157,0 415,110,448,149,4 459,112,491,147,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000215_1.jpg 74,21,111,28,0 96,22,103,28,4 104,21,111,28,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000216_0.jpg 172,4,420,62,0 311,11,354,53,4 364,12,413,53,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000216_1.jpg 80,24,120,32,0 104,24,111,31,4 111,24,120,31,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000217_0.jpg 80,21,120,28,0 105,21,112,28,4 113,21,120,28,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000218_0.jpg 86,30,129,40,0 112,31,120,38,4 121,31,128,38,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000219_0.jpg 86,27,129,36,0 113,28,121,35,4 122,28,129,35,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000220_0.jpg 92,27,138,36,0 121,27,129,35,4 130,27,138,36,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000221_0.jpg 96,27,144,36,0 126,27,135,36,4 136,27,144,36,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000222_0.jpg 102,30,153,40,0 134,30,142,40,4 143,30,153,40,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000223_0.jpg 110,33,165,44,0 144,34,154,44,4 155,34,164,43,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000224_0.jpg 120,39,180,52,0 157,40,168,51,4 168,40,179,52,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000225_0.jpg 130,45,195,60,0 169,46,181,59,4 183,47,193,59,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000226_0.jpg 150,48,225,64,0 196,50,209,64,4 211,49,223,64,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000227_0.jpg 164,57,246,76,0 215,61,228,75,4 229,61,245,75,6
+./traindata/JPEGImages/frame5052_to_frame5279_label_000228_0.jpg 190,60,285,80,0 249,61,265,78,4 267,61,283,78,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000001_0.jpg 298,135,447,180,0 390,149,412,176,4 418,148,442,174,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000002_0.jpg 456,28,684,98,0 603,54,633,91,4 645,55,677,92,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000041_0.jpg 98,30,147,40,0 129,32,137,39,4 138,32,146,39,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000042_0.jpg 110,36,165,48,0 144,37,154,47,4 154,37,164,46,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000043_0.jpg 126,42,189,56,0 165,43,175,54,4 177,43,188,53,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000044_0.jpg 146,42,219,56,0 191,44,203,56,4 205,44,217,55,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000045_0.jpg 188,69,282,92,0 245,75,261,90,4 263,74,279,88,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000046_0.jpg 242,108,363,144,0 316,117,333,137,4 339,117,357,136,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000047_0.jpg 354,135,531,180,0 466,149,486,173,4 495,149,519,170,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000048_0.jpg 80,24,120,32,0 104,25,111,31,4 112,25,118,31,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000049_0.jpg 84,30,126,40,0 111,32,117,38,4 118,31,126,38,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000050_0.jpg 100,36,150,48,0 130,37,138,45,4 139,37,147,45,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000051_0.jpg 106,42,159,56,0 138,44,147,53,4 149,44,158,52,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000052_0.jpg 118,45,177,60,0 154,47,163,57,4 165,46,175,57,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000053_0.jpg 148,51,222,68,0 192,54,204,67,4 206,54,219,65,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000054_0.jpg 170,63,255,84,0 222,66,235,82,4 239,66,253,80,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000055_0.jpg 210,87,315,116,0 275,93,292,112,4 296,94,313,110,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000056_0.jpg 274,132,411,176,0 360,146,377,168,4 386,147,406,167,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000057_0.jpg 404,116,606,180,0 532,140,555,170,4 568,141,594,166,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000133_0.jpg 378,156,567,208,0 499,169,520,194,4 531,170,554,191,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000134_0.jpg 378,156,567,208,0 500,169,519,194,4 531,169,553,193,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000135_0.jpg 378,156,567,208,0 499,169,520,193,4 529,170,553,193,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000136_0.jpg 378,156,567,208,0 500,169,520,194,4 530,169,556,192,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000137_0.jpg 378,156,567,208,0 499,169,520,193,4 529,170,554,194,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000138_0.jpg 378,156,567,208,0 499,170,520,193,4 530,170,553,192,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000139_0.jpg 378,156,567,208,0 498,169,521,194,4 530,170,554,192,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000140_0.jpg 378,156,567,208,0 499,171,520,193,4 530,170,553,193,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000141_0.jpg 378,156,567,208,0 500,170,520,194,4 530,170,554,193,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000142_0.jpg 378,156,567,208,0 496,173,518,198,4 527,172,551,196,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000143_0.jpg 375,144,573,192,0 500,160,522,186,4 532,160,557,185,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000144_0.jpg 336,177,547,236,0 469,196,492,223,4 502,196,527,223,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000145_0.jpg 269,137,506,207,0 418,162,442,192,4 456,163,485,192,6
+./traindata/JPEGImages/frame5284_to_frame5438_label_000146_0.jpg 90,3,398,92,0 283,40,311,74,4 330,45,363,75,6
+./traindata/JPEGImages/frame5556_to_frame5604_label_000029_0.jpg 44,21,66,28,0 50,22,56,28,2
+./traindata/JPEGImages/frame5556_to_frame5604_label_000032_0.jpg 50,21,75,28,0 57,22,64,28,2
+./traindata/JPEGImages/frame5556_to_frame5604_label_000035_0.jpg 68,30,102,40,0 78,32,85,39,2
+./traindata/JPEGImages/frame5556_to_frame5604_label_000038_0.jpg 90,39,135,52,0 103,41,113,50,2
+./traindata/JPEGImages/frame5556_to_frame5604_label_000038_1.jpg 50,24,75,32,0 57,26,64,31,2
+./traindata/JPEGImages/frame5556_to_frame5604_label_000041_0.jpg 136,66,204,88,0 154,70,169,85,2
+./traindata/JPEGImages/frame5556_to_frame5604_label_000041_1.jpg 60,36,90,48,0 68,38,75,45,2
+./traindata/JPEGImages/frame5556_to_frame5604_label_000041_2.jpg 46,24,69,32,0 56,26,62,32,2
+./traindata/JPEGImages/frame5556_to_frame5604_label_000042_0.jpg 164,93,246,124,0 188,100,204,117,2
+./traindata/JPEGImages/frame5556_to_frame5604_label_000042_1.jpg 60,36,90,48,0 67,37,75,44,2
+./traindata/JPEGImages/frame5556_to_frame5604_label_000042_2.jpg 48,27,72,36,0 57,29,63,35,2
+./traindata/JPEGImages/frame5556_to_frame5604_label_000044_0.jpg 302,140,453,212,0 347,164,374,194,2
+./traindata/JPEGImages/frame5556_to_frame5604_label_000044_1.jpg 82,39,123,52,0 94,41,102,50,2
+./traindata/JPEGImages/frame5556_to_frame5604_label_000044_2.jpg 60,42,90,56,0 72,46,79,54,2
+./traindata/JPEGImages/frame5556_to_frame5604_label_000045_0.jpg 88,30,132,40,0 101,32,110,40,2
+./traindata/JPEGImages/frame5556_to_frame5604_label_000045_1.jpg 68,42,102,56,0 81,45,89,54,2
+./traindata/JPEGImages/frame5556_to_frame5604_label_000048_0.jpg 126,48,189,64,0 146,50,158,62,2
+./traindata/JPEGImages/frame5556_to_frame5604_label_000049_0.jpg 126,51,189,68,0 145,53,158,66,2
+./traindata/JPEGImages/frame5629_to_frame5707_label_000031_0.jpg 54,24,81,32,0 55,25,61,31,1
+./traindata/JPEGImages/frame5629_to_frame5707_label_000034_0.jpg 64,30,96,40,0 65,31,72,38,1
+./traindata/JPEGImages/frame5629_to_frame5707_label_000035_0.jpg 68,27,102,36,0 70,28,77,36,1
+./traindata/JPEGImages/frame5629_to_frame5707_label_000036_0.jpg 72,30,108,40,0 74,31,81,39,1
+./traindata/JPEGImages/frame5629_to_frame5707_label_000038_0.jpg 78,27,117,36,0 98,28,105,36,4 107,28,115,36,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000039_0.jpg 82,30,123,40,0 104,31,110,40,4 113,32,122,40,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000040_0.jpg 88,30,132,40,0 121,31,130,40,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000041_0.jpg 92,33,138,44,0 116,34,124,43,4 127,34,136,44,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000042_0.jpg 98,33,147,44,0 124,34,132,43,4 135,34,145,44,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000043_0.jpg 100,36,150,48,0 126,38,136,47,4 139,37,149,48,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000044_0.jpg 104,42,156,56,0 143,44,154,55,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000045_0.jpg 110,42,165,56,0 138,44,149,56,4 151,44,163,56,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000046_0.jpg 114,45,171,60,0 144,47,154,59,4 158,47,170,60,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000047_0.jpg 120,45,180,60,0 151,47,163,60,4 165,47,178,60,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000048_0.jpg 124,48,186,64,0 157,50,168,64,4 171,51,184,64,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000049_0.jpg 130,48,195,64,0 164,51,176,64,4 179,51,192,64,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000050_0.jpg 126,54,189,72,0 173,58,187,71,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000051_0.jpg 130,51,195,68,0 164,53,176,67,4 180,53,192,67,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000052_0.jpg 128,51,192,68,0 162,53,174,67,4 177,53,190,67,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000053_0.jpg 132,66,198,88,0 183,71,196,86,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000054_0.jpg 136,69,204,92,0 172,74,185,88,4 187,75,201,88,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000055_0.jpg 134,54,201,72,0 184,57,198,72,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000056_0.jpg 132,72,198,96,0 166,78,180,91,4 183,77,196,92,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000057_0.jpg 132,69,198,92,0 168,73,180,87,4 183,74,197,87,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000058_0.jpg 134,66,201,88,0 184,71,198,86,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000059_0.jpg 134,69,201,92,0 171,72,182,87,4 185,73,199,88,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000060_0.jpg 134,69,201,92,0 170,74,180,89,4 184,74,198,89,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000061_0.jpg 136,66,204,88,0 172,69,183,84,4 187,70,201,84,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000062_0.jpg 134,66,201,88,0 186,71,199,85,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000063_0.jpg 134,57,201,76,0 169,61,181,75,4 185,60,198,74,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000064_0.jpg 140,66,210,88,0 177,72,189,85,4 193,71,207,85,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000065_0.jpg 140,66,210,88,0 176,70,189,84,4 194,70,207,84,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000066_0.jpg 148,78,222,104,0 188,85,199,100,4 205,83,219,99,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000067_0.jpg 156,78,234,104,0 198,83,211,99,4 216,83,232,99,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000068_0.jpg 162,87,243,116,0 203,94,217,110,4 222,93,238,110,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000069_0.jpg 178,87,267,116,0 224,93,239,112,4 244,93,261,111,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000070_0.jpg 184,99,276,132,0 232,107,248,125,4 254,106,272,125,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000071_0.jpg 208,105,312,140,0 261,113,280,133,4 285,112,306,134,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000072_0.jpg 222,117,333,156,0 282,128,300,151,4 309,129,330,152,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000073_0.jpg 270,120,405,160,0 373,133,396,159,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000074_0.jpg 310,174,465,232,0 397,196,417,224,4 432,200,457,227,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000075_0.jpg 400,82,600,176,0 559,130,587,164,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000078_0.jpg 84,33,126,44,0 106,34,115,43,4 116,34,125,43,6
+./traindata/JPEGImages/frame5629_to_frame5707_label_000079_0.jpg 82,36,123,48,0 104,38,113,47,4 114,38,122,47,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000039_0.jpg 72,30,108,40,0 89,31,98,40,5 99,31,106,39,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000040_0.jpg 72,33,108,44,0 89,34,97,43,5 99,34,107,42,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000041_0.jpg 76,27,114,36,0 94,28,103,35,5 104,28,114,35,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000042_0.jpg 86,39,129,52,0 107,40,117,51,5 118,40,129,50,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000043_0.jpg 90,39,135,52,0 112,40,123,50,5 124,40,135,50,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000044_0.jpg 92,42,138,56,0 116,44,126,54,5 128,44,138,54,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000045_0.jpg 100,48,150,64,0 125,50,136,62,5 138,50,150,62,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000046_0.jpg 112,54,168,72,0 141,56,151,69,5 154,56,166,69,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000047_0.jpg 118,51,177,68,0 148,54,160,66,5 162,53,176,66,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000048_0.jpg 128,57,192,76,0 162,61,175,74,5 176,60,190,74,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000049_0.jpg 132,69,198,92,0 166,74,179,88,5 181,74,196,87,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000050_0.jpg 144,75,216,100,0 181,81,196,96,5 199,81,213,95,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000051_0.jpg 160,84,240,112,0 202,89,218,107,5 222,89,237,106,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000052_0.jpg 166,93,249,124,0 209,103,226,120,5 230,102,248,121,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000053_0.jpg 188,96,282,128,0 237,104,256,124,5 261,105,279,124,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000054_0.jpg 208,120,312,160,0 262,132,284,152,5 288,131,309,153,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000055_0.jpg 226,132,339,176,0 286,145,308,168,5 313,144,335,167,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000056_0.jpg 256,156,384,208,0 325,172,349,198,5 356,173,379,197,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000057_0.jpg 300,152,450,213,0 379,173,407,201,5 417,173,445,200,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000058_0.jpg 342,58,513,140,0 432,88,466,121,5 474,88,505,121,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000062_0.jpg 72,33,108,44,0 91,35,98,43,5 100,34,108,44,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000063_0.jpg 78,39,117,52,0 98,42,105,51,5 107,42,116,50,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000064_0.jpg 74,33,111,44,0 94,35,100,43,5 103,34,111,43,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000065_0.jpg 82,39,123,52,0 112,41,121,50,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000066_0.jpg 84,45,126,60,0 115,47,125,58,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000067_0.jpg 92,42,138,56,0 126,44,136,55,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000068_0.jpg 92,45,138,60,0 115,48,126,59,5 127,47,137,58,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000069_0.jpg 100,54,150,72,0 125,58,135,69,5 138,57,149,69,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000070_0.jpg 112,60,168,80,0 153,63,165,75,6
+./traindata/JPEGImages/frame6309_to_frame6382_label_000071_0.jpg 124,72,186,96,0 140,79,153,91,2
+./traindata/JPEGImages/frame6309_to_frame6382_label_000072_0.jpg 140,81,210,108,0 160,90,174,104,2
+./traindata/JPEGImages/frame6309_to_frame6382_label_000073_0.jpg 168,87,252,116,0 189,98,205,112,2
+./traindata/JPEGImages/frame6309_to_frame6382_label_000074_0.jpg 226,129,339,172,0 257,148,276,164,2
+./traindata/JPEGImages/frame6411_to_frame6528_label_000029_0.jpg 70,27,105,36,0 72,28,78,35,1
+./traindata/JPEGImages/frame6411_to_frame6528_label_000030_0.jpg 76,24,114,32,0 77,26,83,32,1
+./traindata/JPEGImages/frame6411_to_frame6528_label_000031_0.jpg 84,30,126,40,0 86,32,93,39,1
+./traindata/JPEGImages/frame6411_to_frame6528_label_000032_0.jpg 90,30,135,40,0 92,32,100,40,1
+./traindata/JPEGImages/frame6411_to_frame6528_label_000033_0.jpg 98,36,147,48,0 100,38,109,47,1
+./traindata/JPEGImages/frame6411_to_frame6528_label_000034_0.jpg 110,36,165,48,0 113,38,122,47,1
+./traindata/JPEGImages/frame6411_to_frame6528_label_000035_0.jpg 116,42,174,56,0 118,44,128,54,1
+./traindata/JPEGImages/frame6411_to_frame6528_label_000036_0.jpg 136,51,204,68,0 139,53,150,65,1
+./traindata/JPEGImages/frame6411_to_frame6528_label_000037_0.jpg 156,63,234,84,0 159,68,172,80,1
+./traindata/JPEGImages/frame6411_to_frame6528_label_000038_0.jpg 172,69,258,92,0 175,73,188,87,1
+./traindata/JPEGImages/frame6411_to_frame6528_label_000040_0.jpg 260,99,390,132,0 265,106,284,127,1
+./traindata/JPEGImages/frame6411_to_frame6528_label_000041_0.jpg 318,126,477,168,0 324,139,349,162,1
+./traindata/JPEGImages/frame6411_to_frame6528_label_000043_0.jpg 440,1,660,74,0 451,26,482,59,1
+./traindata/JPEGImages/frame6411_to_frame6528_label_000114_0.jpg 116,39,174,52,0 151,40,161,52,4 163,40,173,51,6
+./traindata/JPEGImages/frame6411_to_frame6528_label_000115_0.jpg 126,39,189,52,0 165,41,176,51,4 178,41,189,51,6
+./traindata/JPEGImages/frame6411_to_frame6528_label_000116_0.jpg 136,39,204,52,0 179,41,190,52,4 192,40,204,52,6
+./traindata/JPEGImages/frame6411_to_frame6528_label_000117_0.jpg 170,51,255,68,0 222,52,236,68,4 238,53,253,67,6
+./traindata/JPEGImages/frame6411_to_frame6528_label_000118_0.jpg 210,66,315,88,0 275,70,292,88,4 296,71,314,87,6
+./traindata/JPEGImages/frame6580_to_frame6629_label_000032_0.jpg 58,21,87,28,0 68,22,73,27,2
+./traindata/JPEGImages/frame6580_to_frame6629_label_000034_0.jpg 62,24,93,32,0 72,26,78,32,2
+./traindata/JPEGImages/frame6580_to_frame6629_label_000035_0.jpg 74,27,111,36,0 85,29,92,35,2
+./traindata/JPEGImages/frame6580_to_frame6629_label_000038_0.jpg 100,36,150,48,0 114,39,125,48,2
+./traindata/JPEGImages/frame6580_to_frame6629_label_000038_1.jpg 44,18,66,24,0 49,19,54,23,2
+./traindata/JPEGImages/frame6580_to_frame6629_label_000044_0.jpg 66,24,99,32,0 76,26,83,32,2
+./traindata/JPEGImages/frame6580_to_frame6629_label_000047_0.jpg 88,36,132,48,0 101,38,109,47,2
+./traindata/JPEGImages/frame6580_to_frame6629_label_000050_0.jpg 154,72,231,96,0 177,78,191,92,2
+./traindata/JPEGImages/frame665_to_frame815_label_000001_0.jpg 44,30,66,40,0 45,34,52,40,1
+./traindata/JPEGImages/frame665_to_frame815_label_000003_0.jpg 50,36,75,48,0 52,40,60,47,1
+./traindata/JPEGImages/frame665_to_frame815_label_000004_0.jpg 44,30,66,40,0 45,34,51,40,1
+./traindata/JPEGImages/frame665_to_frame815_label_000005_0.jpg 52,21,78,28,0 56,24,61,29,1
+./traindata/JPEGImages/frame665_to_frame815_label_000006_0.jpg 48,30,72,40,0 49,32,56,40,1
+./traindata/JPEGImages/frame665_to_frame815_label_000007_0.jpg 48,27,72,36,0 51,30,57,37,1
+./traindata/JPEGImages/frame665_to_frame815_label_000008_0.jpg 58,33,87,44,0 61,37,68,45,1
+./traindata/JPEGImages/frame665_to_frame815_label_000009_0.jpg 54,36,81,48,0 56,41,64,48,1
+./traindata/JPEGImages/frame665_to_frame815_label_000010_0.jpg 52,30,78,40,0 53,33,60,41,1
+./traindata/JPEGImages/frame665_to_frame815_label_000011_0.jpg 54,33,81,44,0 57,36,64,44,1
+./traindata/JPEGImages/frame665_to_frame815_label_000012_0.jpg 60,39,90,52,0 62,43,70,50,1
+./traindata/JPEGImages/frame665_to_frame815_label_000013_0.jpg 58,39,87,52,0 59,44,67,52,1
+./traindata/JPEGImages/frame665_to_frame815_label_000015_0.jpg 60,39,90,52,0 62,42,68,50,1
+./traindata/JPEGImages/frame665_to_frame815_label_000016_0.jpg 66,54,99,72,0 69,61,76,69,1
+./traindata/JPEGImages/frame665_to_frame815_label_000019_0.jpg 84,39,126,52,0 86,42,93,51,1
+./traindata/JPEGImages/frame665_to_frame815_label_000020_0.jpg 88,42,132,56,0 91,46,99,55,1
+./traindata/JPEGImages/frame665_to_frame815_label_000021_0.jpg 92,48,138,64,0 95,54,102,63,1
+./traindata/JPEGImages/frame665_to_frame815_label_000022_0.jpg 84,39,126,52,0 88,43,95,52,1
+./traindata/JPEGImages/frame665_to_frame815_label_000023_0.jpg 86,42,129,56,0 91,46,99,55,1
+./traindata/JPEGImages/frame665_to_frame815_label_000024_0.jpg 84,48,126,64,0 86,53,93,61,1
+./traindata/JPEGImages/frame665_to_frame815_label_000026_0.jpg 100,54,150,72,0 105,62,113,71,1
+./traindata/JPEGImages/frame665_to_frame815_label_000031_0.jpg 96,60,144,80,0 99,69,107,79,1
+./traindata/JPEGImages/frame665_to_frame815_label_000034_0.jpg 82,42,123,56,0 85,47,93,56,1
+./traindata/JPEGImages/frame665_to_frame815_label_000036_0.jpg 90,63,135,84,0 94,74,102,82,1
+./traindata/JPEGImages/frame665_to_frame815_label_000041_0.jpg 92,48,138,64,0 95,56,104,65,1
+./traindata/JPEGImages/frame665_to_frame815_label_000046_0.jpg 84,45,126,60,0 87,50,95,60,1
+./traindata/JPEGImages/frame665_to_frame815_label_000051_0.jpg 92,54,138,72,0 95,62,104,71,1
+./traindata/JPEGImages/frame665_to_frame815_label_000056_0.jpg 96,69,144,92,0 102,79,109,88,1
+./traindata/JPEGImages/frame665_to_frame815_label_000061_0.jpg 90,54,135,72,0 95,61,104,71,1
+./traindata/JPEGImages/frame665_to_frame815_label_000066_0.jpg 96,57,144,76,0 98,65,107,74,1
+./traindata/JPEGImages/frame665_to_frame815_label_000071_0.jpg 100,54,150,72,0 103,62,111,72,1
+./traindata/JPEGImages/frame665_to_frame815_label_000076_0.jpg 96,45,144,60,0 100,52,107,60,1
+./traindata/JPEGImages/frame665_to_frame815_label_000081_0.jpg 92,51,138,68,0 94,57,104,67,1
+./traindata/JPEGImages/frame665_to_frame815_label_000086_0.jpg 100,54,150,72,0 105,61,114,72,1
+./traindata/JPEGImages/frame665_to_frame815_label_000091_0.jpg 100,54,150,72,0 105,61,114,72,1
+./traindata/JPEGImages/frame665_to_frame815_label_000096_0.jpg 96,51,144,68,0 100,57,109,68,1
+./traindata/JPEGImages/frame665_to_frame815_label_000101_0.jpg 94,45,141,60,0 97,50,105,60,1
+./traindata/JPEGImages/frame665_to_frame815_label_000106_0.jpg 94,57,141,76,0 98,63,107,74,1
+./traindata/JPEGImages/frame665_to_frame815_label_000111_0.jpg 88,45,132,60,0 91,50,100,60,1
+./traindata/JPEGImages/frame665_to_frame815_label_000116_0.jpg 100,51,150,68,0 104,56,113,67,1
+./traindata/JPEGImages/frame665_to_frame815_label_000121_0.jpg 92,54,138,72,0 96,61,104,71,1
+./traindata/JPEGImages/frame665_to_frame815_label_000124_0.jpg 92,39,138,52,0 95,43,104,52,1
+./traindata/JPEGImages/frame665_to_frame815_label_000125_0.jpg 94,57,141,76,0 97,63,106,74,1
+./traindata/JPEGImages/frame665_to_frame815_label_000126_0.jpg 104,63,156,84,0 110,71,118,82,1
+./traindata/JPEGImages/frame665_to_frame815_label_000131_0.jpg 104,51,156,68,0 113,57,121,68,1 144,54,157,64,6
+./traindata/JPEGImages/frame665_to_frame815_label_000136_0.jpg 86,54,129,72,0 88,61,98,71,1 120,58,129,68,6
+./traindata/JPEGImages/frame6691_to_frame6756_label_000035_0.jpg 68,36,102,48,0 70,39,78,46,1
+./traindata/JPEGImages/frame6691_to_frame6756_label_000038_0.jpg 80,30,120,40,0 82,31,91,40,1
+./traindata/JPEGImages/frame6691_to_frame6756_label_000041_0.jpg 106,39,159,52,0 108,40,119,52,1
+./traindata/JPEGImages/frame6691_to_frame6756_label_000044_0.jpg 154,69,231,92,0 157,72,173,91,1
+./traindata/JPEGImages/frame6691_to_frame6756_label_000047_0.jpg 234,108,351,144,0 240,116,261,140,1
+./traindata/JPEGImages/frame6691_to_frame6756_label_000050_0.jpg 394,1,591,80,0 407,33,440,69,1
+./traindata/JPEGImages/frame6691_to_frame6756_label_000054_0.jpg 70,27,105,36,0 71,28,80,36,1
+./traindata/JPEGImages/frame6691_to_frame6756_label_000059_0.jpg 108,48,162,64,0 109,52,121,63,1
+./traindata/JPEGImages/frame6691_to_frame6756_label_000060_0.jpg 108,42,162,56,0 112,44,122,56,1
+./traindata/JPEGImages/frame6691_to_frame6756_label_000062_0.jpg 112,51,168,68,0 113,53,125,67,1
+./traindata/JPEGImages/frame6691_to_frame6756_label_000063_0.jpg 130,54,195,72,0 133,56,146,71,1
+./traindata/JPEGImages/frame7283_to_frame7389_label_000039_0.jpg 52,42,78,56,0 52,42,59,50,1
+./traindata/JPEGImages/frame7283_to_frame7389_label_000040_0.jpg 56,51,84,68,0 56,53,64,62,1
+./traindata/JPEGImages/frame7283_to_frame7389_label_000040_1.jpg 34,24,51,32,0 35,25,40,31,1
+./traindata/JPEGImages/frame7283_to_frame7389_label_000041_0.jpg 36,21,54,28,0 36,22,42,28,1
+./traindata/JPEGImages/frame7283_to_frame7389_label_000041_1.jpg 64,48,96,64,0 64,48,73,57,1
+./traindata/JPEGImages/frame7283_to_frame7389_label_000042_0.jpg 72,66,108,88,0 72,67,83,78,1
+./traindata/JPEGImages/frame7283_to_frame7389_label_000042_1.jpg 38,24,57,32,0 39,25,45,30,1
+./traindata/JPEGImages/frame7283_to_frame7389_label_000048_0.jpg 174,99,261,132,0 176,107,197,127,1
+./traindata/JPEGImages/frame7283_to_frame7389_label_000048_1.jpg 50,24,75,32,0 50,24,58,31,1
+./traindata/JPEGImages/frame7283_to_frame7389_label_000049_0.jpg 194,111,291,148,0 195,123,221,143,1
+./traindata/JPEGImages/frame7283_to_frame7389_label_000049_1.jpg 48,27,72,36,0 48,27,54,35,1
+./traindata/JPEGImages/frame7283_to_frame7389_label_000050_0.jpg 188,138,282,184,0 186,153,215,179,1
+./traindata/JPEGImages/frame7283_to_frame7389_label_000050_1.jpg 54,30,81,40,0 54,30,61,39,1
+./traindata/JPEGImages/frame7283_to_frame7389_label_000052_0.jpg 218,132,327,176,0 216,139,248,173,1
+./traindata/JPEGImages/frame7283_to_frame7389_label_000052_1.jpg 54,30,81,40,0 54,30,62,39,1
+./traindata/JPEGImages/frame7283_to_frame7389_label_000055_0.jpg 54,27,81,36,0 72,27,80,36,3
+./traindata/JPEGImages/frame7283_to_frame7389_label_000055_1.jpg 224,126,336,168,0
+./traindata/JPEGImages/frame7283_to_frame7389_label_000056_0.jpg 54,27,81,36,0 72,27,80,36,3
+./traindata/JPEGImages/frame7283_to_frame7389_label_000056_1.jpg 224,144,336,192,0
+./traindata/JPEGImages/frame7283_to_frame7389_label_000057_0.jpg 56,33,84,44,0 76,35,83,43,3
+./traindata/JPEGImages/frame7283_to_frame7389_label_000057_1.jpg 222,165,333,220,0
+./traindata/JPEGImages/frame7283_to_frame7389_label_000058_0.jpg 54,27,81,36,0 72,27,80,36,3
+./traindata/JPEGImages/frame7283_to_frame7389_label_000058_1.jpg 234,169,351,226,0
+./traindata/JPEGImages/frame7283_to_frame7389_label_000059_0.jpg 52,30,78,40,0 70,31,78,39,3
+./traindata/JPEGImages/frame7283_to_frame7389_label_000059_1.jpg 210,159,315,212,0
+./traindata/JPEGImages/frame7283_to_frame7389_label_000060_0.jpg 56,30,84,40,0 74,30,83,40,3
+./traindata/JPEGImages/frame7283_to_frame7389_label_000060_1.jpg 212,165,318,220,0
+./traindata/JPEGImages/frame7283_to_frame7389_label_000061_0.jpg 58,27,87,36,0 79,27,86,36,3
+./traindata/JPEGImages/frame7283_to_frame7389_label_000061_1.jpg 216,165,324,220,0
+./traindata/JPEGImages/frame7283_to_frame7389_label_000062_0.jpg 58,30,87,40,0 78,32,86,40,3
+./traindata/JPEGImages/frame7283_to_frame7389_label_000062_1.jpg 220,168,330,224,0
+./traindata/JPEGImages/frame7283_to_frame7389_label_000063_0.jpg 58,30,87,40,0 77,31,86,40,3
+./traindata/JPEGImages/frame7283_to_frame7389_label_000063_1.jpg 220,174,330,232,0
+./traindata/JPEGImages/frame7283_to_frame7389_label_000064_0.jpg 54,27,81,36,0 73,28,81,36,3
+./traindata/JPEGImages/frame7283_to_frame7389_label_000064_1.jpg 230,162,345,216,0
+./traindata/JPEGImages/frame7283_to_frame7389_label_000065_0.jpg 60,33,90,44,0 79,34,88,43,3
+./traindata/JPEGImages/frame7283_to_frame7389_label_000065_1.jpg 228,144,342,192,0
+./traindata/JPEGImages/frame7283_to_frame7389_label_000066_0.jpg 62,30,93,40,0 83,30,90,39,3
+./traindata/JPEGImages/frame7283_to_frame7389_label_000066_1.jpg 242,114,363,184,0
+./traindata/JPEGImages/frame7283_to_frame7389_label_000067_0.jpg 66,30,99,40,0 88,30,96,39,3
+./traindata/JPEGImages/frame7283_to_frame7389_label_000067_1.jpg 278,57,417,128,0
+./traindata/JPEGImages/frame7283_to_frame7389_label_000068_0.jpg 64,30,96,40,0 85,30,94,39,3
+./traindata/JPEGImages/frame7283_to_frame7389_label_000069_0.jpg 68,39,102,52,0 89,40,98,50,3
+./traindata/JPEGImages/frame7283_to_frame7389_label_000070_0.jpg 74,36,111,48,0 99,38,107,46,3
+./traindata/JPEGImages/frame7283_to_frame7389_label_000071_0.jpg 68,33,102,44,0 94,35,101,43,3
+./traindata/JPEGImages/frame7283_to_frame7389_label_000072_0.jpg 74,36,111,48,0 100,37,109,46,3
+./traindata/JPEGImages/frame7283_to_frame7389_label_000073_0.jpg 82,36,123,48,0 111,37,121,47,3
+./traindata/JPEGImages/frame7283_to_frame7389_label_000096_0.jpg 52,27,78,36,0 62,28,68,35,2
+./traindata/JPEGImages/frame7283_to_frame7389_label_000099_0.jpg 68,36,102,48,0 81,38,91,47,2
+./traindata/JPEGImages/frame7283_to_frame7389_label_000099_1.jpg 38,21,57,28,0 46,22,50,28,2
+./traindata/JPEGImages/frame7283_to_frame7389_label_000100_0.jpg 76,36,114,48,0 89,37,100,48,2
+./traindata/JPEGImages/frame7283_to_frame7389_label_000100_1.jpg 42,24,63,32,0 50,25,56,32,2
+./traindata/JPEGImages/frame7283_to_frame7389_label_000103_0.jpg 54,30,81,40,0 64,31,71,39,2
+./traindata/JPEGImages/frame7283_to_frame7389_label_000103_1.jpg 154,99,231,132,0 146,92,163,112,2
+./traindata/JPEGImages/frame7283_to_frame7389_label_000105_0.jpg 74,42,111,56,0 87,44,98,55,2
+./traindata/JPEGImages/frame7283_to_frame7389_label_000106_0.jpg 88,39,132,52,0 104,38,117,50,2
+./traindata/JPEGImages/frame846_to_frame879_label_000022_0.jpg 44,27,66,36,0 54,29,60,35,2
+./traindata/JPEGImages/frame846_to_frame879_label_000025_0.jpg 52,33,78,44,0 61,36,69,43,2
+./traindata/JPEGImages/frame846_to_frame879_label_000028_0.jpg 66,39,99,52,0 78,42,87,50,2
+./traindata/JPEGImages/frame846_to_frame879_label_000029_0.jpg 58,39,87,52,0 69,41,78,50,2
+./traindata/JPEGImages/frame846_to_frame879_label_000030_0.jpg 84,60,126,80,0 101,63,112,75,2
+./traindata/JPEGImages/frame846_to_frame879_label_000033_0.jpg 130,105,195,140,0 158,112,173,128,2
+./traindata/JPEGImages/frame8499_to_frame8541_label_000031_0.jpg 42,21,63,28,0 56,22,62,28,3
+./traindata/JPEGImages/frame8499_to_frame8541_label_000032_0.jpg 48,24,72,32,0 64,26,70,31,3
+./traindata/JPEGImages/frame8499_to_frame8541_label_000033_0.jpg 48,30,72,40,0 64,32,71,39,3
+./traindata/JPEGImages/frame8499_to_frame8541_label_000034_0.jpg 52,30,78,40,0 70,32,77,39,3
+./traindata/JPEGImages/frame8499_to_frame8541_label_000035_0.jpg 58,33,87,44,0 78,35,85,44,3
+./traindata/JPEGImages/frame8499_to_frame8541_label_000036_0.jpg 62,42,93,56,0 83,45,92,53,3
+./traindata/JPEGImages/frame8499_to_frame8541_label_000037_0.jpg 66,45,99,60,0 89,48,98,57,3
+./traindata/JPEGImages/frame8499_to_frame8541_label_000038_0.jpg 72,45,108,60,0 97,48,106,57,3
+./traindata/JPEGImages/frame8499_to_frame8541_label_000039_0.jpg 80,54,120,72,0 108,58,118,69,3
+./traindata/JPEGImages/frame8499_to_frame8541_label_000040_0.jpg 90,60,135,80,0 122,64,133,76,3
+./traindata/JPEGImages/frame8499_to_frame8541_label_000041_0.jpg 102,69,153,92,0 137,74,149,86,3
+./traindata/JPEGImages/frame8499_to_frame8541_label_000042_0.jpg 112,81,168,108,0 152,87,165,101,3
+./traindata/JPEGImages/frame8499_to_frame8541_label_000043_0.jpg 122,90,183,120,0 165,97,178,112,3
+./traindata/JPEGImages/frame915_to_frame955_label_000030_0.jpg 40,24,60,32,0 46,25,53,32,2
+./traindata/JPEGImages/frame915_to_frame955_label_000033_0.jpg 48,30,72,40,0 56,32,65,40,2
+./traindata/JPEGImages/frame915_to_frame955_label_000036_0.jpg 72,36,108,48,0 84,37,94,46,2
+./traindata/JPEGImages/frame915_to_frame955_label_000039_0.jpg 110,54,165,72,0 128,56,140,69,2
+./traindata/JPEGImages/frame915_to_frame955_label_000040_0.jpg 142,90,213,120,0 167,96,182,112,2
+./traindata/JPEGImages/frame9450_to_frame9519_label_000058_0.jpg 56,33,84,44,0 58,34,66,43,1
+./traindata/JPEGImages/frame9450_to_frame9519_label_000061_0.jpg 62,39,93,52,0 64,41,73,51,1
+./traindata/JPEGImages/frame9450_to_frame9519_label_000064_0.jpg 68,48,102,64,0 70,50,79,62,1
+./traindata/JPEGImages/frame9522_to_frame9551_label_000006_0.jpg 44,24,66,32,0 45,25,53,32,1
+./traindata/JPEGImages/frame9522_to_frame9551_label_000009_0.jpg 46,30,69,40,0 48,31,56,40,1
+./traindata/JPEGImages/frame9522_to_frame9551_label_000012_0.jpg 48,24,72,32,0 50,25,57,32,1
+./traindata/JPEGImages/frame9522_to_frame9551_label_000015_0.jpg 52,30,78,40,0 53,32,62,41,1
+./traindata/JPEGImages/frame9522_to_frame9551_label_000018_0.jpg 62,30,93,40,0 66,32,74,40,1
+./traindata/JPEGImages/frame9522_to_frame9551_label_000021_0.jpg 64,42,96,56,0 65,46,75,55,1
+./traindata/JPEGImages/frame9522_to_frame9551_label_000024_0.jpg 82,48,123,64,0 85,52,97,63,1
+./traindata/JPEGImages/frame9522_to_frame9551_label_000027_0.jpg 100,63,150,84,0 103,69,115,83,1
+./traindata/JPEGImages/frame976_to_frame1045_label_000036_0.jpg 106,51,159,68,0 147,55,156,65,4
+./traindata/JPEGImages/frame976_to_frame1045_label_000039_0.jpg 166,81,249,108,0 229,86,244,104,4
+./traindata/JPEGImages/frame976_to_frame1045_label_000040_0.jpg 192,108,288,144,0 266,118,283,138,4
+./traindata/JPEGImages/frame976_to_frame1045_label_000041_0.jpg 234,123,351,164,0 325,134,344,158,4
+./traindata/JPEGImages/frame976_to_frame1045_label_000056_0.jpg 76,33,114,44,0 102,35,110,43,4
+./traindata/JPEGImages/frame976_to_frame1045_label_000057_0.jpg 74,36,111,48,0 101,37,110,46,4
+./traindata/JPEGImages/frame976_to_frame1045_label_000058_0.jpg 72,33,108,44,0 99,35,107,43,4
+./traindata/JPEGImages/frame976_to_frame1045_label_000059_0.jpg 76,36,114,48,0 104,38,113,45,4
+./traindata/JPEGImages/frame976_to_frame1045_label_000060_0.jpg 80,36,120,48,0 109,38,118,46,4
+./traindata/JPEGImages/frame976_to_frame1045_label_000061_0.jpg 82,36,123,48,0 112,38,121,47,4
+./traindata/JPEGImages/frame976_to_frame1045_label_000062_0.jpg 86,39,129,52,0 118,40,127,50,4
+./traindata/JPEGImages/frame976_to_frame1045_label_000063_0.jpg 92,36,138,48,0 126,37,136,46,4
+./traindata/JPEGImages/frame976_to_frame1045_label_000064_0.jpg 100,36,150,48,0 125,38,136,48,5 138,37,148,47,4
+./traindata/JPEGImages/frame976_to_frame1045_label_000065_0.jpg 104,39,156,52,0 129,42,141,50,5 143,40,153,51,4
+./traindata/JPEGImages/frame976_to_frame1045_label_000066_0.jpg 110,42,165,56,0 137,44,149,54,5 151,43,162,55,4
+./traindata/JPEGImages/frame976_to_frame1045_label_000067_0.jpg 124,45,186,60,0 154,49,168,59,5 170,47,184,59,4
+./traindata/JPEGImages/frame976_to_frame1045_label_000068_0.jpg 142,57,213,76,0 179,62,193,74,5 197,60,210,73,4
+./traindata/JPEGImages/frame976_to_frame1045_label_000069_0.jpg 194,87,291,116,0 244,95,264,110,5 270,89,287,107,4
+./traindata/JPEGImages/frame9994_to_frame10070_label_000029_0.jpg 38,21,57,28,0 52,21,57,28,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000030_0.jpg 38,24,57,32,0 51,25,57,31,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000031_0.jpg 42,24,63,32,0 57,24,63,31,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000032_0.jpg 42,24,63,32,0 57,25,63,31,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000033_0.jpg 48,24,72,32,0 64,24,71,31,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000034_0.jpg 52,27,78,36,0 71,27,78,35,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000035_0.jpg 52,36,78,48,0 70,38,77,46,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000036_0.jpg 56,33,84,44,0 75,33,83,42,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000037_0.jpg 62,42,93,56,0 84,44,92,53,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000038_0.jpg 68,36,102,48,0 92,36,101,46,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000039_0.jpg 74,48,111,64,0 100,49,110,60,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000040_0.jpg 84,51,126,68,0 114,52,126,65,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000041_0.jpg 92,57,138,76,0 126,60,137,74,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000041_1.jpg 32,18,48,24,0 44,19,48,23,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000042_0.jpg 106,63,159,84,0 143,65,156,78,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000043_0.jpg 106,57,159,76,0 144,59,156,72,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000043_1.jpg 34,21,51,28,0 46,22,50,27,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000050_0.jpg 250,143,375,195,0 343,155,371,188,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000050_1.jpg 42,21,63,28,0 57,22,62,27,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000051_0.jpg 300,41,450,104,0 412,47,446,88,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000051_1.jpg 42,24,63,32,0 57,25,63,31,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000052_0.jpg 44,24,66,32,0 60,25,66,32,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000053_0.jpg 46,27,69,36,0 63,28,69,35,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000054_0.jpg 44,27,66,36,0 59,28,66,35,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000055_0.jpg 50,24,75,32,0 68,25,74,31,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000056_0.jpg 50,24,75,32,0 67,24,74,31,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000057_0.jpg 52,24,78,32,0 71,24,78,32,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000058_0.jpg 52,24,78,32,0 71,24,77,31,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000059_0.jpg 52,27,78,36,0 70,27,77,35,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000060_0.jpg 58,27,87,36,0 78,27,86,35,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000061_0.jpg 58,30,87,40,0 79,31,86,39,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000062_0.jpg 58,30,87,40,0 80,31,87,39,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000063_0.jpg 64,30,96,40,0 86,30,96,40,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000064_0.jpg 66,33,99,44,0 89,34,99,44,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000065_0.jpg 68,30,102,40,0 92,30,101,39,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000066_0.jpg 72,36,108,48,0 97,36,107,47,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000067_0.jpg 74,39,111,52,0 101,40,111,51,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000068_0.jpg 80,42,120,56,0 107,42,119,53,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000069_0.jpg 82,42,123,56,0 110,42,121,55,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000070_0.jpg 88,45,132,60,0 118,46,130,57,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000071_0.jpg 88,48,132,64,0 118,48,130,61,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000072_0.jpg 98,48,147,64,0 132,48,146,62,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000073_0.jpg 100,48,150,64,0 135,48,149,61,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000074_0.jpg 106,54,159,72,0 142,55,158,70,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000074_1.jpg 32,18,48,24,0 38,19,43,24,2
+./traindata/JPEGImages/frame9994_to_frame10070_label_000075_0.jpg 116,66,174,88,0 156,67,172,83,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000075_1.jpg 38,18,57,24,0
+./traindata/JPEGImages/frame9994_to_frame10070_label_000076_0.jpg 134,75,201,100,0 181,77,199,94,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000077_0.jpg 126,90,189,120,0 169,93,188,111,3
+./traindata/JPEGImages/frame9994_to_frame10070_label_000077_1.jpg 38,21,57,28,0
